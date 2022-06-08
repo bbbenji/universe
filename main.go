@@ -107,7 +107,7 @@ func main() {
   // Fetch universe
   spinner.Suffix = " Fetching universe..."
   spinner.Start()
-  universe, err := FetchUniverse("paescuj", useCache)
+  universe, err := FetchUniverse("bbbenji", useCache)
   //universe, err := TestFetchUniverse()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)

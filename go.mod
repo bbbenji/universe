@@ -1,4 +1,4 @@
-module github.com/paescuj/universe
+module github.com/bbbenji/universe
 
 go 1.16
 
