@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [zruncho3d/ZeroPanels](https://github.com/zruncho3d/ZeroPanels)
 * [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com)
 * [Papooch/cookie-cutter-generator-with-nestjs](https://github.com/Papooch/cookie-cutter-generator-with-nestjs)
 * [Eng1n33r/flipperzero-firmware](https://github.com/Eng1n33r/flipperzero-firmware)
