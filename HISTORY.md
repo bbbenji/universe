@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)
+* [jimilinuxguy/flipperzero-lrs-pagers](https://github.com/jimilinuxguy/flipperzero-lrs-pagers)
 * [zruncho3d/ZeroPanels](https://github.com/zruncho3d/ZeroPanels)
 * [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com)
 * [Papooch/cookie-cutter-generator-with-nestjs](https://github.com/Papooch/cookie-cutter-generator-with-nestjs)
