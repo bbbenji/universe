@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
+* [nonsponsored/cognition](https://github.com/nonsponsored/cognition)
+* [boramalper/magnetico](https://github.com/boramalper/magnetico)
 * [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)
 * [jimilinuxguy/flipperzero-lrs-pagers](https://github.com/jimilinuxguy/flipperzero-lrs-pagers)
 * [zruncho3d/ZeroPanels](https://github.com/zruncho3d/ZeroPanels)
