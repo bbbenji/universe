@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [VottusCode/t470s-uefi-unlock](https://github.com/VottusCode/t470s-uefi-unlock)
 * [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
 * [nonsponsored/cognition](https://github.com/nonsponsored/cognition)
 * [boramalper/magnetico](https://github.com/boramalper/magnetico)
