@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [pseudosavant/dom-event-to-css-variable.js](https://github.com/pseudosavant/dom-event-to-css-variable.js)
+* [popcorn-official/popcorn-android](https://github.com/popcorn-official/popcorn-android)
 * [VottusCode/t470s-uefi-unlock](https://github.com/VottusCode/t470s-uefi-unlock)
 * [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
 * [nonsponsored/cognition](https://github.com/nonsponsored/cognition)
@@ -28,7 +30,7 @@
 * [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 * [sharkdp/insect](https://github.com/sharkdp/insect)
 * [mdibaiee/awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites)
-* [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice)
+* [emilepetrone/financial_lessons](https://github.com/emilepetrone/financial_lessons)
 * [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
 * [Xyl2k/TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys)
 * [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
