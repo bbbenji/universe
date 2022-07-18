@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [mborgerson/halo](https://github.com/mborgerson/halo)
+* [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2)
 * [pseudosavant/dom-event-to-css-variable.js](https://github.com/pseudosavant/dom-event-to-css-variable.js)
 * [popcorn-official/popcorn-android](https://github.com/popcorn-official/popcorn-android)
 * [VottusCode/t470s-uefi-unlock](https://github.com/VottusCode/t470s-uefi-unlock)
