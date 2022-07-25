@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [mothball187/flipperzero-nrf24](https://github.com/mothball187/flipperzero-nrf24)
 * [mborgerson/halo](https://github.com/mborgerson/halo)
 * [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2)
 * [pseudosavant/dom-event-to-css-variable.js](https://github.com/pseudosavant/dom-event-to-css-variable.js)
