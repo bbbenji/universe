@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
 * [mothball187/flipperzero-nrf24](https://github.com/mothball187/flipperzero-nrf24)
 * [mborgerson/halo](https://github.com/mborgerson/halo)
 * [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2)
@@ -203,7 +204,7 @@
 * [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019)
 * [devksingh4/thinkpad-tools](https://github.com/devksingh4/thinkpad-tools)
 * [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
-* [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+* [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery)
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
 * [nosir/cleave.js](https://github.com/nosir/cleave.js)
 * [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js)
