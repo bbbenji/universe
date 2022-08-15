@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+* [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator)
 * [kuba2k2/libretuya](https://github.com/kuba2k2/libretuya)
