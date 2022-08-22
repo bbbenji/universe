@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [BitcoinRaven/CAMEbruteforcer](https://github.com/BitcoinRaven/CAMEbruteforcer)
+* [coledeck/Llama-Mini-Firmware](https://github.com/coledeck/Llama-Mini-Firmware)
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 * [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
@@ -111,7 +113,6 @@
 * [prusamini/wiki](https://github.com/prusamini/wiki)
 * [PterodonRecovery/pterodon](https://github.com/PterodonRecovery/pterodon)
 * [jarun/nnn](https://github.com/jarun/nnn)
-* [pedrolemoz/MagicMagnet](https://github.com/pedrolemoz/MagicMagnet)
 * [pb-files/pb-videos](https://github.com/pb-files/pb-videos)
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4)
