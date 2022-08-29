@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [tobiabocchi/flipperzero-bruteforce](https://github.com/tobiabocchi/flipperzero-bruteforce)
+* [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher)
 * [BitcoinRaven/CAMEbruteforcer](https://github.com/BitcoinRaven/CAMEbruteforcer)
 * [coledeck/Llama-Mini-Firmware](https://github.com/coledeck/Llama-Mini-Firmware)
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
@@ -55,7 +57,7 @@
 * [atomiks/floating-ui](https://github.com/atomiks/floating-ui)
 * [medusajs/medusa](https://github.com/medusajs/medusa)
 * [cov-lineages/pango-designation](https://github.com/cov-lineages/pango-designation)
-* [luzea9903/winactivate](https://github.com/luzea9903/winactivate)
+* [luzea9904/winactivate](https://github.com/luzea9904/winactivate)
 * [Vaan530/ESP32-Cam-mod-for-Voron](https://github.com/Vaan530/ESP32-Cam-mod-for-Voron)
 * [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)
 * [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro)
