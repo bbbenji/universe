@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [withastro/astro](https://github.com/withastro/astro)
 * [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)
 * [nocomp/Kiosk-evasion-BADUsb-Bruteforce](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
@@ -125,7 +126,7 @@
 * [bryancostanich/OpenRC](https://github.com/bryancostanich/OpenRC)
 * [gregsaun/prusa_i3_bear_upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)
 * [ProteGO-Safe/android](https://github.com/ProteGO-Safe/android)
-* [1milligram/html-dom](https://github.com/1milligram/html-dom)
+* [phuocng/html-dom](https://github.com/phuocng/html-dom)
 * [private-static/X1C6-OpenCore-EFI](https://github.com/private-static/X1C6-OpenCore-EFI)
 * [d0n601/All-In-One-WP-Migration-With-Import](https://github.com/d0n601/All-In-One-WP-Migration-With-Import)
 * [sjlu/popular-movies](https://github.com/sjlu/popular-movies)
