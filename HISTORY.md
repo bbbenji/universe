@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [appwrite/appwrite](https://github.com/appwrite/appwrite)
 * [withastro/astro](https://github.com/withastro/astro)
 * [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)
 * [nocomp/Kiosk-evasion-BADUsb-Bruteforce](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)
