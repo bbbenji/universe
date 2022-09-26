@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [DrB0rk/Flipper-Zero-Boards](https://github.com/DrB0rk/Flipper-Zero-Boards)
+* [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
 * [appwrite/appwrite](https://github.com/appwrite/appwrite)
 * [withastro/astro](https://github.com/withastro/astro)
 * [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)
