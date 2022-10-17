@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+* [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+* [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
 * [DrB0rk/Flipper-Zero-Boards](https://github.com/DrB0rk/Flipper-Zero-Boards)
 * [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
 * [appwrite/appwrite](https://github.com/appwrite/appwrite)
