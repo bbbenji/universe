@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider)
+* [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
+* [fictivekin/openrecipes](https://github.com/fictivekin/openrecipes)
 * [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
 * [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
