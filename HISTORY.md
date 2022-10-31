@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 * [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider)
 * [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
 * [fictivekin/openrecipes](https://github.com/fictivekin/openrecipes)
@@ -184,7 +185,6 @@
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
 * [miao1007/github-trending-filter](https://github.com/miao1007/github-trending-filter)
 * [pilotak/homeassistant-attributes](https://github.com/pilotak/homeassistant-attributes)
-* [bieniu/ha-airly](https://github.com/bieniu/ha-airly)
 * [macbury/SmartHouse](https://github.com/macbury/SmartHouse)
 * [kabturek/home-assistant](https://github.com/kabturek/home-assistant)
 * [knadh/listmonk](https://github.com/knadh/listmonk)
