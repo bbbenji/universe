@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [2dom/PixelTime](https://github.com/2dom/PixelTime)
 * [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 * [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider)
 * [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
@@ -9,7 +10,7 @@
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
 * [DrB0rk/Flipper-Zero-Boards](https://github.com/DrB0rk/Flipper-Zero-Boards)
-* [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
+* [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
 * [appwrite/appwrite](https://github.com/appwrite/appwrite)
 * [withastro/astro](https://github.com/withastro/astro)
 * [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)
