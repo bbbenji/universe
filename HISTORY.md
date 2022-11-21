@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino)
+* [2dom/PxMatrix](https://github.com/2dom/PxMatrix)
+* [AndrewEllis93/Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+* [underbluewaters/secret-santa](https://github.com/underbluewaters/secret-santa)
 * [2dom/PixelTime](https://github.com/2dom/PixelTime)
 * [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 * [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider)
@@ -30,7 +34,7 @@
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
 * [mothball187/flipperzero-nrf24](https://github.com/mothball187/flipperzero-nrf24)
-* [mborgerson/halo](https://github.com/mborgerson/halo)
+* [halo-re/halo](https://github.com/halo-re/halo)
 * [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2)
 * [pseudosavant/dom-event-to-css-variable.js](https://github.com/pseudosavant/dom-event-to-css-variable.js)
 * [popcorn-official/popcorn-android](https://github.com/popcorn-official/popcorn-android)
