@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+* [koush/scrypted](https://github.com/koush/scrypted)
 * [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino)
 * [2dom/PxMatrix](https://github.com/2dom/PxMatrix)
 * [AndrewEllis93/Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
