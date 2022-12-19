@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+* [smartbutnot/flightportal](https://github.com/smartbutnot/flightportal)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 * [koush/scrypted](https://github.com/koush/scrypted)
 * [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino)
