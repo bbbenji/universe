@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [fazalmajid/edgewalker](https://github.com/fazalmajid/edgewalker)
+* [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
 * [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
 * [smartbutnot/flightportal](https://github.com/smartbutnot/flightportal)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
