@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [Llama-FW/Llama-P32-FW](https://github.com/Llama-FW/Llama-P32-FW)
+* [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 * [fazalmajid/edgewalker](https://github.com/fazalmajid/edgewalker)
 * [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
 * [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
@@ -157,7 +159,7 @@
 * [balassy/laser-temp-gun](https://github.com/balassy/laser-temp-gun)
 * [mtgrosser/pdfunite](https://github.com/mtgrosser/pdfunite)
 * [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker)
-* [PaulGameDev/PrusaMK3_Silicone_Leveling](https://github.com/PaulGameDev/PrusaMK3_Silicone_Leveling)
+* [PaulGD03/PrusaMK3_Silicone_Leveling](https://github.com/PaulGD03/PrusaMK3_Silicone_Leveling)
 * [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions)
 * [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 * [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
