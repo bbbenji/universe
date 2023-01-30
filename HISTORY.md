@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [ryukoposting/Signal-Android](https://github.com/ryukoposting/Signal-Android)
+* [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
+* [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
 * [Llama-FW/Llama-P32-FW](https://github.com/Llama-FW/Llama-P32-FW)
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 * [fazalmajid/edgewalker](https://github.com/fazalmajid/edgewalker)
