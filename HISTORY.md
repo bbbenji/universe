@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [guidoism/wildwood](https://github.com/guidoism/wildwood)
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch)
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [adamelmore/good-repo](https://github.com/adamelmore/good-repo)
