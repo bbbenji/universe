@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [tinacms/tinasaurus](https://github.com/tinacms/tinasaurus)
+* [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch)
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -298,7 +300,7 @@
 * [thanksmister/androidthings-mqtt-alarm-panel](https://github.com/thanksmister/androidthings-mqtt-alarm-panel)
 * [christopherwk210/site-scan](https://github.com/christopherwk210/site-scan)
 * [colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)
-* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
+* [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac)
 * [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios)
 * [briangraves/ResponsiveEmailPatterns](https://github.com/briangraves/ResponsiveEmailPatterns)
 * [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
