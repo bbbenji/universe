@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [rareranger/chatgpt-linux-assistant](https://github.com/rareranger/chatgpt-linux-assistant)
+* [noproto/FlipperMfkey](https://github.com/noproto/FlipperMfkey)
 * [tinacms/tinasaurus](https://github.com/tinacms/tinasaurus)
 * [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
@@ -189,7 +191,6 @@
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ)
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
 * [N000bak/Lenovo-T470s-Clover](https://github.com/N000bak/Lenovo-T470s-Clover)
-* [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt)
 * [alphabt/asuswrt-merlin-ddns-cloudflare](https://github.com/alphabt/asuswrt-merlin-ddns-cloudflare)
 * [dennistimmermann/tronxy-x1_repetier](https://github.com/dennistimmermann/tronxy-x1_repetier)
 * [andymeneely/tronxy-x1-notes](https://github.com/andymeneely/tronxy-x1-notes)
