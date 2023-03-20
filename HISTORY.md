@@ -1,6 +1,9 @@
 # List of all my starred GitHub repositories
 
-* [rareranger/chatgpt-linux-assistant](https://github.com/rareranger/chatgpt-linux-assistant)
+* [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)
+* [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description)
+* [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android)
+* [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 * [noproto/FlipperMfkey](https://github.com/noproto/FlipperMfkey)
 * [tinacms/tinasaurus](https://github.com/tinacms/tinasaurus)
 * [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
@@ -97,7 +100,6 @@
 * [atomiks/floating-ui](https://github.com/atomiks/floating-ui)
 * [medusajs/medusa](https://github.com/medusajs/medusa)
 * [cov-lineages/pango-designation](https://github.com/cov-lineages/pango-designation)
-* [luzea9904/winactivate](https://github.com/luzea9904/winactivate)
 * [Vaan530/ESP32-Cam-mod-for-Voron](https://github.com/Vaan530/ESP32-Cam-mod-for-Voron)
 * [PrintersForAnts/Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)
 * [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro)
