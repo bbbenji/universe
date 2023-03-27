@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [HorstBaerbel/HubAlyzer](https://github.com/HorstBaerbel/HubAlyzer)
+* [HorstBaerbel/esp32-i2s-slm](https://github.com/HorstBaerbel/esp32-i2s-slm)
+* [ikostoski/esp32-i2s-slm](https://github.com/ikostoski/esp32-i2s-slm)
+* [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)
 * [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description)
 * [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android)
@@ -60,7 +64,7 @@
 * [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2)
 * [pseudosavant/dom-event-to-css-variable.js](https://github.com/pseudosavant/dom-event-to-css-variable.js)
 * [popcorn-official/popcorn-android](https://github.com/popcorn-official/popcorn-android)
-* [VottusCode/t470s-uefi-unlock](https://github.com/VottusCode/t470s-uefi-unlock)
+* [lilianalillyy/t470s-uefi-unlock](https://github.com/lilianalillyy/t470s-uefi-unlock)
 * [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
 * [nonsponsored/cognition](https://github.com/nonsponsored/cognition)
 * [boramalper/magnetico](https://github.com/boramalper/magnetico)
