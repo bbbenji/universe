@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [OLIMEX/ESP32-S2-DevKit-LiPo](https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo)
+* [SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files)
+* [emoisemo/FLIPPER-JAMM](https://github.com/emoisemo/FLIPPER-JAMM)
 * [HorstBaerbel/HubAlyzer](https://github.com/HorstBaerbel/HubAlyzer)
 * [HorstBaerbel/esp32-i2s-slm](https://github.com/HorstBaerbel/esp32-i2s-slm)
 * [ikostoski/esp32-i2s-slm](https://github.com/ikostoski/esp32-i2s-slm)
