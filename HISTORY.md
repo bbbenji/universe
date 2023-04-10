@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup)
+* [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce)
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+* [nat/openplayground](https://github.com/nat/openplayground)
+* [chriswayg/Opencore-Visual-Beginners-Guide](https://github.com/chriswayg/Opencore-Visual-Beginners-Guide)
+* [Correia-jpv/fucking-awesome-flipperzero](https://github.com/Correia-jpv/fucking-awesome-flipperzero)
 * [OLIMEX/ESP32-S2-DevKit-LiPo](https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo)
 * [SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files)
 * [emoisemo/FLIPPER-JAMM](https://github.com/emoisemo/FLIPPER-JAMM)
