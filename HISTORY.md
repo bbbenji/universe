@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate)
+* [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
 * [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup)
 * [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce)
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
