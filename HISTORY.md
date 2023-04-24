@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 * [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate)
 * [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
 * [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup)
