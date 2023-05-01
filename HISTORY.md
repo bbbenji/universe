@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [acvigue/RBotFirmware](https://github.com/acvigue/RBotFirmware)
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 * [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate)
 * [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
@@ -67,7 +68,7 @@
 * [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator)
-* [kuba2k2/libretuya](https://github.com/kuba2k2/libretuya)
+* [kuba2k2/libretiny](https://github.com/kuba2k2/libretiny)
 * [anudeepND/whitelist](https://github.com/anudeepND/whitelist)
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
@@ -122,7 +123,7 @@
 * [pawelmalak/flame](https://github.com/pawelmalak/flame)
 * [digiblur/digiNRG_ESPHome](https://github.com/digiblur/digiNRG_ESPHome)
 * [joewdavies/geoblender](https://github.com/joewdavies/geoblender)
-* [MiMillieuh/Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux)
+* [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux)
 * [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 * [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
 * [BuilderIO/partytown](https://github.com/BuilderIO/partytown)
