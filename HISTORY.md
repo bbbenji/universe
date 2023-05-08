@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
+* [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT)
+* [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 * [acvigue/RBotFirmware](https://github.com/acvigue/RBotFirmware)
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
 * [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate)
