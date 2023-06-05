@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
 * [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)
 * [starship/starship](https://github.com/starship/starship)
 * [ellie/atuin](https://github.com/ellie/atuin)
