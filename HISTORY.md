@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [go-vikunja/api](https://github.com/go-vikunja/api)
 * [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
 * [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)
 * [starship/starship](https://github.com/starship/starship)
@@ -251,7 +252,6 @@
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 * [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB)
 * [chipriley/lovelace-css-values](https://github.com/chipriley/lovelace-css-values)
-* [storybookjs/storybook](https://github.com/storybookjs/storybook)
 * [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)
 * [caneco/design-tips](https://github.com/caneco/design-tips)
 * [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card)
