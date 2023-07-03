@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [liriliri/eruda](https://github.com/liriliri/eruda)
 * [aristocratos/btop](https://github.com/aristocratos/btop)
 * [go-vikunja/api](https://github.com/go-vikunja/api)
 * [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
