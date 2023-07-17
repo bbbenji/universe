@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)
+* [StanGirard/quivr](https://github.com/StanGirard/quivr)
 * [liriliri/eruda](https://github.com/liriliri/eruda)
 * [aristocratos/btop](https://github.com/aristocratos/btop)
 * [go-vikunja/api](https://github.com/go-vikunja/api)
@@ -108,7 +110,7 @@
 * [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 * [TadPath/PUMA](https://github.com/TadPath/PUMA)
 * [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
-* [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher)
+* [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher)
 * [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
 * [MuddledBox/FlipperZeroSub-GHz](https://github.com/MuddledBox/FlipperZeroSub-GHz)
 * [MuddledBox/flipperzero-firmware](https://github.com/MuddledBox/flipperzero-firmware)
