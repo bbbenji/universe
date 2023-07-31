@@ -9,7 +9,7 @@
 * [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
 * [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)
 * [starship/starship](https://github.com/starship/starship)
-* [ellie/atuin](https://github.com/ellie/atuin)
+* [atuinsh/atuin](https://github.com/atuinsh/atuin)
 * [ouch-org/ouch](https://github.com/ouch-org/ouch)
 * [Textualize/trogon](https://github.com/Textualize/trogon)
 * [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
