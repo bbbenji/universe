@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
 * [DutchDevelop/BambulabLedController](https://github.com/DutchDevelop/BambulabLedController)
 * [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)
 * [StanGirard/quivr](https://github.com/StanGirard/quivr)
