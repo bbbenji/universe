@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
+* [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 * [EuropeanRemote/european-remote-software-companies](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)
 * [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
