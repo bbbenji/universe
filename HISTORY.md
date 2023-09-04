@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [mhaii/tailscale-lite-openwrt-mips](https://github.com/mhaii/tailscale-lite-openwrt-mips)
+* [MultimediaLucario/Lenovo-ThinkPad-T480](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480)
+* [withastro/starlight](https://github.com/withastro/starlight)
 * [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
 * [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 * [EuropeanRemote/european-remote-software-companies](https://github.com/EuropeanRemote/european-remote-software-companies)
