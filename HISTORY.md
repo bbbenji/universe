@@ -1,6 +1,5 @@
 # List of all my starred GitHub repositories
 
-* [mhaii/tailscale-lite-openwrt-mips](https://github.com/mhaii/tailscale-lite-openwrt-mips)
 * [MultimediaLucario/Lenovo-ThinkPad-T480](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480)
 * [withastro/starlight](https://github.com/withastro/starlight)
 * [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
@@ -95,7 +94,7 @@
 * [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator)
-* [kuba2k2/libretiny](https://github.com/kuba2k2/libretiny)
+* [libretiny-eu/libretiny](https://github.com/libretiny-eu/libretiny)
 * [anudeepND/whitelist](https://github.com/anudeepND/whitelist)
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
