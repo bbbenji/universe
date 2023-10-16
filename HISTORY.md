@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 * [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet)
 * [MultimediaLucario/Lenovo-ThinkPad-T480](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480)
 * [withastro/starlight](https://github.com/withastro/starlight)
