@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Alex313031/thorium](https://github.com/Alex313031/thorium)
 * [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 * [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet)
 * [MultimediaLucario/Lenovo-ThinkPad-T480](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480)
@@ -21,7 +22,6 @@
 * [atuinsh/atuin](https://github.com/atuinsh/atuin)
 * [ouch-org/ouch](https://github.com/ouch-org/ouch)
 * [Textualize/trogon](https://github.com/Textualize/trogon)
-* [purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 * [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [Xfennec/progress](https://github.com/Xfennec/progress)
 * [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)
