@@ -192,7 +192,7 @@
 * [bytedance/IconPark](https://github.com/bytedance/IconPark)
 * [VDavid003/sm64-port-android-base](https://github.com/VDavid003/sm64-port-android-base)
 * [atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer)
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+* [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
 * [3DPGVA/Prusa-Bear-MK3S-MINI---Ultra-Upgraded-](https://github.com/3DPGVA/Prusa-Bear-MK3S-MINI---Ultra-Upgraded-)
