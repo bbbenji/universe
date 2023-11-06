@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+* [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)
 * [Alex313031/thorium](https://github.com/Alex313031/thorium)
 * [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 * [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet)
@@ -55,7 +57,7 @@
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch)
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-* [adamelmore/good-repo](https://github.com/adamelmore/good-repo)
+* [adamdottv/good-repo](https://github.com/adamdottv/good-repo)
 * [ryukoposting/Signal-Android](https://github.com/ryukoposting/Signal-Android)
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
