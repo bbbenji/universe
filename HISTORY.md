@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [dave1010/clipea](https://github.com/dave1010/clipea)
+* [RogueMaster/flipperzero-evil-portal](https://github.com/RogueMaster/flipperzero-evil-portal)
+* [djmaze/resticker](https://github.com/djmaze/resticker)
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 * [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)
 * [Alex313031/thorium](https://github.com/Alex313031/thorium)
