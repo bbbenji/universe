@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr)
 * [dave1010/clipea](https://github.com/dave1010/clipea)
 * [RogueMaster/flipperzero-evil-portal](https://github.com/RogueMaster/flipperzero-evil-portal)
 * [djmaze/resticker](https://github.com/djmaze/resticker)
