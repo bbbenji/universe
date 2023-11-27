@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
+* [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
+* [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot)
 * [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr)
 * [dave1010/clipea](https://github.com/dave1010/clipea)
 * [RogueMaster/flipperzero-evil-portal](https://github.com/RogueMaster/flipperzero-evil-portal)
