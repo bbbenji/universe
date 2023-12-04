@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+* [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
 * [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
 * [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 * [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot)
