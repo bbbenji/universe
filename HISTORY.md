@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [candiddev/rot](https://github.com/candiddev/rot)
 * [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 * [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
 * [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
