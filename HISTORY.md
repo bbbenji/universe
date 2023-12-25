@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [Ian-Costa18/TorDownloader](https://github.com/Ian-Costa18/TorDownloader)
+* [pheralb/svgl](https://github.com/pheralb/svgl)
 * [candiddev/rot](https://github.com/candiddev/rot)
 * [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 * [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
