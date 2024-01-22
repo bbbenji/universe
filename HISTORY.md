@@ -360,7 +360,7 @@
 * [thanksmister/androidthings-mqtt-alarm-panel](https://github.com/thanksmister/androidthings-mqtt-alarm-panel)
 * [christopherwk210/site-scan](https://github.com/christopherwk210/site-scan)
 * [colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)
-* [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac)
+* [nikitavoloboev/config](https://github.com/nikitavoloboev/config)
 * [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios)
 * [briangraves/ResponsiveEmailPatterns](https://github.com/briangraves/ResponsiveEmailPatterns)
 * [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
