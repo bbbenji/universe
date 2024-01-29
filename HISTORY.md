@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [AkechiShiro/slides-talks](https://github.com/AkechiShiro/slides-talks)
 * [DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets)
 * [Ian-Costa18/TorDownloader](https://github.com/Ian-Costa18/TorDownloader)
 * [pheralb/svgl](https://github.com/pheralb/svgl)
