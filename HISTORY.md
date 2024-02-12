@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [dubinc/dub](https://github.com/dubinc/dub)
 * [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 * [AkechiShiro/slides-talks](https://github.com/AkechiShiro/slides-talks)
 * [DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets)
@@ -28,10 +29,10 @@
 * [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
 * [DutchDevelop/BambulabLedController](https://github.com/DutchDevelop/BambulabLedController)
 * [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)
-* [StanGirard/quivr](https://github.com/StanGirard/quivr)
+* [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 * [liriliri/eruda](https://github.com/liriliri/eruda)
 * [aristocratos/btop](https://github.com/aristocratos/btop)
-* [go-vikunja/api](https://github.com/go-vikunja/api)
+* [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
 * [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
 * [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)
 * [starship/starship](https://github.com/starship/starship)
