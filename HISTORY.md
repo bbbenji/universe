@@ -72,7 +72,6 @@
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [adamdottv/good-repo](https://github.com/adamdottv/good-repo)
-* [ryukoposting/Signal-Android](https://github.com/ryukoposting/Signal-Android)
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
 * [Snake-FW/P32-FW](https://github.com/Snake-FW/P32-FW)
