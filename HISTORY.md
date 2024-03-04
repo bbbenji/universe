@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [dockur/windows](https://github.com/dockur/windows)
+* [kutinden/buyingacar](https://github.com/kutinden/buyingacar)
 * [withastro/astro](https://github.com/withastro/astro)
 * [dubinc/dub](https://github.com/dubinc/dub)
 * [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
@@ -148,7 +150,7 @@
 * [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha)
 * [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons)
-* [veler/DevToys](https://github.com/veler/DevToys)
+* [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
 * [emericg/WatchFlower](https://github.com/emericg/WatchFlower)
 * [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT)
 * [118design/ZINC](https://github.com/118design/ZINC)
