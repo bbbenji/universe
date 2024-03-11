@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [usebruno/bruno](https://github.com/usebruno/bruno)
+* [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom)
 * [dockur/windows](https://github.com/dockur/windows)
 * [kutinden/buyingacar](https://github.com/kutinden/buyingacar)
 * [withastro/astro](https://github.com/withastro/astro)
