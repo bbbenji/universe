@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [s2underground/GhostNet](https://github.com/s2underground/GhostNet)
+* [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+* [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)
 * [usebruno/bruno](https://github.com/usebruno/bruno)
 * [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom)
 * [dockur/windows](https://github.com/dockur/windows)
@@ -76,7 +79,7 @@
 * [adamdottv/good-repo](https://github.com/adamdottv/good-repo)
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
-* [Snake-FW/P32-FW](https://github.com/Snake-FW/P32-FW)
+* [Snake-Edition/P32-FW](https://github.com/Snake-Edition/P32-FW)
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 * [fazalmajid/edgewalker](https://github.com/fazalmajid/edgewalker)
 * [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
@@ -92,7 +95,7 @@
 * [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 * [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider)
 * [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
-* [fictivekin/openrecipes](https://github.com/fictivekin/openrecipes)
+* [fictive-kin/openrecipes](https://github.com/fictive-kin/openrecipes)
 * [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
 * [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
