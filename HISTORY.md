@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [chearon/dropflow](https://github.com/chearon/dropflow)
+* [Donkie/Spoolman](https://github.com/Donkie/Spoolman)
+* [lorabridge/lorabridge](https://github.com/lorabridge/lorabridge)
+* [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus)
 * [s2underground/GhostNet](https://github.com/s2underground/GhostNet)
 * [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 * [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)
@@ -359,7 +363,6 @@
 * [rithvikvibhu/GHLocalApi](https://github.com/rithvikvibhu/GHLocalApi)
 * [dgiese/dustcloud](https://github.com/dgiese/dustcloud)
 * [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit)
-* [Omgitsonlyalex/EmailCountdown](https://github.com/Omgitsonlyalex/EmailCountdown)
 * [BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install](https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install)
 * [billw2/rpi-clone](https://github.com/billw2/rpi-clone)
 * [thanksmister/androidthings-mqtt-alarm-panel](https://github.com/thanksmister/androidthings-mqtt-alarm-panel)
