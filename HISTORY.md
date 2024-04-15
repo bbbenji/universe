@@ -110,7 +110,7 @@
 * [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)
 * [nocomp/Kiosk-evasion-BADUsb-Bruteforce](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
-* [jetpack-io/devbox](https://github.com/jetpack-io/devbox)
+* [jetify-com/devbox](https://github.com/jetify-com/devbox)
 * [tobiabocchi/flipperzero-bruteforce](https://github.com/tobiabocchi/flipperzero-bruteforce)
 * [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher)
 * [BitcoinRaven/CAMEbruteforcer](https://github.com/BitcoinRaven/CAMEbruteforcer)
