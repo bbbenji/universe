@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 * [chearon/dropflow](https://github.com/chearon/dropflow)
 * [Donkie/Spoolman](https://github.com/Donkie/Spoolman)
 * [lorabridge/lorabridge](https://github.com/lorabridge/lorabridge)
@@ -220,7 +221,6 @@
 * [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
 * [3DPGVA/Prusa-Bear-MK3S-MINI---Ultra-Upgraded-](https://github.com/3DPGVA/Prusa-Bear-MK3S-MINI---Ultra-Upgraded-)
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-* [digitalec/thinkmac-t470](https://github.com/digitalec/thinkmac-t470)
 * [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit)
 * [prusamini/wiki](https://github.com/prusamini/wiki)
 * [PterodonRecovery/pterodon](https://github.com/PterodonRecovery/pterodon)
