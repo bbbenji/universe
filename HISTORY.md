@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
 * [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 * [chearon/dropflow](https://github.com/chearon/dropflow)
 * [Donkie/Spoolman](https://github.com/Donkie/Spoolman)
