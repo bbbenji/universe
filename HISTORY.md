@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing)
 * [yorukot/superfile](https://github.com/yorukot/superfile)
 * [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 * [chearon/dropflow](https://github.com/chearon/dropflow)
