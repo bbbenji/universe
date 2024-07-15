@@ -373,7 +373,7 @@
 * [nikitavoloboev/config](https://github.com/nikitavoloboev/config)
 * [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios)
 * [briangraves/ResponsiveEmailPatterns](https://github.com/briangraves/ResponsiveEmailPatterns)
-* [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
+* [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus)
 * [rcruz/AutoMySQLBackup](https://github.com/rcruz/AutoMySQLBackup)
 * [robin7331/IKEA-Hackant](https://github.com/robin7331/IKEA-Hackant)
 * [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
