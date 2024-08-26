@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
 * [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing)
 * [yorukot/superfile](https://github.com/yorukot/superfile)
 * [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
