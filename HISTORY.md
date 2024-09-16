@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [edfloreshz/cosmic-project-collection](https://github.com/edfloreshz/cosmic-project-collection)
+* [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history)
+* [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
 * [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
 * [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing)
 * [yorukot/superfile](https://github.com/yorukot/superfile)
