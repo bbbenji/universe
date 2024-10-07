@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
+* [themeselection/flyonui](https://github.com/themeselection/flyonui)
 * [edfloreshz/cosmic-project-collection](https://github.com/edfloreshz/cosmic-project-collection)
 * [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history)
 * [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
