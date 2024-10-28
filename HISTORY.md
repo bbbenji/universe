@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [spuder/OpenSpool](https://github.com/spuder/OpenSpool)
 * [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL)
 * [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor)
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
