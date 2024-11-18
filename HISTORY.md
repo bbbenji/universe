@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [syssi/esphome-xiaomi-philips-light](https://github.com/syssi/esphome-xiaomi-philips-light)
+* [dockur/macos](https://github.com/dockur/macos)
 * [spuder/OpenSpool](https://github.com/spuder/OpenSpool)
 * [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL)
 * [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor)
@@ -189,7 +191,7 @@
 * [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux)
 * [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 * [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
-* [BuilderIO/partytown](https://github.com/BuilderIO/partytown)
+* [QwikDev/partytown](https://github.com/QwikDev/partytown)
 * [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
 * [mgdm/htmlq](https://github.com/mgdm/htmlq)
 * [pageballoon/imagemapper](https://github.com/pageballoon/imagemapper)
