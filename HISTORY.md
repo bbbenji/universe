@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [4gray/iptvnator](https://github.com/4gray/iptvnator)
 * [syssi/esphome-xiaomi-philips-light](https://github.com/syssi/esphome-xiaomi-philips-light)
 * [dockur/macos](https://github.com/dockur/macos)
 * [spuder/OpenSpool](https://github.com/spuder/OpenSpool)
