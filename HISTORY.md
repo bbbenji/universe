@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
+* [jdx/mise](https://github.com/jdx/mise)
 * [4gray/iptvnator](https://github.com/4gray/iptvnator)
 * [syssi/esphome-xiaomi-philips-light](https://github.com/syssi/esphome-xiaomi-philips-light)
 * [dockur/macos](https://github.com/dockur/macos)
