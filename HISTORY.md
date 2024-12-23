@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
+* [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions)
+* [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress)
 * [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
 * [jdx/mise](https://github.com/jdx/mise)
 * [4gray/iptvnator](https://github.com/4gray/iptvnator)
