@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
+* [skariel/keypub](https://github.com/skariel/keypub)
 * [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
 * [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions)
 * [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress)
@@ -13,7 +15,7 @@
 * [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor)
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 * [themeselection/flyonui](https://github.com/themeselection/flyonui)
-* [edfloreshz/cosmic-project-collection](https://github.com/edfloreshz/cosmic-project-collection)
+* [cosmic-utils/cosmic-project-collection](https://github.com/cosmic-utils/cosmic-project-collection)
 * [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history)
 * [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
 * [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
