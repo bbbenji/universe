@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger)
+* [ik4y/OpenCore-t470s](https://github.com/ik4y/OpenCore-t470s)
+* [ad-on-is/odin-server](https://github.com/ad-on-is/odin-server)
 * [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
 * [skariel/keypub](https://github.com/skariel/keypub)
 * [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
