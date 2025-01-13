@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [Neradoc/discotool](https://github.com/Neradoc/discotool)
+* [FormBee/FormBee](https://github.com/FormBee/FormBee)
 * [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger)
 * [ik4y/OpenCore-t470s](https://github.com/ik4y/OpenCore-t470s)
 * [ad-on-is/odin-server](https://github.com/ad-on-is/odin-server)
