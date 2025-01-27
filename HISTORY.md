@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit)
+* [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings)
 * [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [medusajs/medusa](https://github.com/medusajs/medusa)
