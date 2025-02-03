@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [chemtech1/TipMaster](https://github.com/chemtech1/TipMaster)
+* [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX)
+* [drkpxl/printwatch-card](https://github.com/drkpxl/printwatch-card)
 * [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit)
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings)
 * [rbaron/b-parasite](https://github.com/rbaron/b-parasite)
@@ -23,7 +26,7 @@
 * [syssi/esphome-xiaomi-philips-light](https://github.com/syssi/esphome-xiaomi-philips-light)
 * [dockur/macos](https://github.com/dockur/macos)
 * [spuder/OpenSpool](https://github.com/spuder/OpenSpool)
-* [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL)
+* [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL)
 * [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor)
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 * [themeselection/flyonui](https://github.com/themeselection/flyonui)
