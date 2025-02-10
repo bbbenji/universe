@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [jonans/bsnotify](https://github.com/jonans/bsnotify)
+* [chrisdoelcreates/vape-power-bank](https://github.com/chrisdoelcreates/vape-power-bank)
 * [chemtech1/TipMaster](https://github.com/chemtech1/TipMaster)
 * [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX)
 * [drkpxl/printwatch-card](https://github.com/drkpxl/printwatch-card)
