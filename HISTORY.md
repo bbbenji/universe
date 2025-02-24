@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
 * [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health)
 * [jonans/bsnotify](https://github.com/jonans/bsnotify)
 * [chrisdoelcreates/vape-power-bank](https://github.com/chrisdoelcreates/vape-power-bank)
