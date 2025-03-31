@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [andrewromanenco/cocommit](https://github.com/andrewromanenco/cocommit)
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
 * [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health)
