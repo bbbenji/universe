@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [louislam/dockge](https://github.com/louislam/dockge)
 * [andrewromanenco/cocommit](https://github.com/andrewromanenco/cocommit)
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
@@ -21,7 +22,7 @@
 * [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger)
 * [ik4y/OpenCore-t470s](https://github.com/ik4y/OpenCore-t470s)
 * [ad-on-is/odin-server](https://github.com/ad-on-is/odin-server)
-* [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
+* [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 * [skariel/keypub](https://github.com/skariel/keypub)
 * [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
 * [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions)
@@ -83,7 +84,7 @@
 * [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)
 * [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware)
 * [DutchDevelop/BambulabLedController](https://github.com/DutchDevelop/BambulabLedController)
-* [CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)
+* [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware)
 * [liriliri/eruda](https://github.com/liriliri/eruda)
 * [aristocratos/btop](https://github.com/aristocratos/btop)
 * [lamemakes/pilot-drive](https://github.com/lamemakes/pilot-drive)
@@ -129,7 +130,7 @@
 * [Snake-Edition/P32-FW](https://github.com/Snake-Edition/P32-FW)
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 * [fazalmajid/edgewalker](https://github.com/fazalmajid/edgewalker)
-* [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
+* [redwoodjs/graphql](https://github.com/redwoodjs/graphql)
 * [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
 * [smartbutnot/flightportal](https://github.com/smartbutnot/flightportal)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
