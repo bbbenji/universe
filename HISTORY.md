@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [pebble-dev/pebble.nix](https://github.com/pebble-dev/pebble.nix)
 * [louislam/dockge](https://github.com/louislam/dockge)
 * [andrewromanenco/cocommit](https://github.com/andrewromanenco/cocommit)
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
