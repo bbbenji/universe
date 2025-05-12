@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [AIM-Harvard/FaceAge](https://github.com/AIM-Harvard/FaceAge)
 * [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)
 * [antfu-collective/icones](https://github.com/antfu-collective/icones)
 * [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator)
