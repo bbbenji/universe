@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [BinaryWorlds/FacebookClearActivityLog2025](https://github.com/BinaryWorlds/FacebookClearActivityLog2025)
 * [AIM-Harvard/FaceAge](https://github.com/AIM-Harvard/FaceAge)
 * [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)
 * [antfu-collective/icones](https://github.com/antfu-collective/icones)
@@ -195,7 +196,6 @@
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-* [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit)
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 * [bryancostanich/OpenRC](https://github.com/bryancostanich/OpenRC)
 * [phuocng/html-dom](https://github.com/phuocng/html-dom)
