@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [rommapp/romm](https://github.com/rommapp/romm)
+* [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 * [BinaryWorlds/FacebookClearActivityLog2025](https://github.com/BinaryWorlds/FacebookClearActivityLog2025)
 * [AIM-Harvard/FaceAge](https://github.com/AIM-Harvard/FaceAge)
 * [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)
