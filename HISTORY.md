@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system)
+* [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
+* [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
 * [rommapp/romm](https://github.com/rommapp/romm)
 * [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 * [BinaryWorlds/FacebookClearActivityLog2025](https://github.com/BinaryWorlds/FacebookClearActivityLog2025)
@@ -135,7 +138,7 @@
 * [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-* [adamdottv/good-repo](https://github.com/adamdottv/good-repo)
+* [adamdotdevin/good-repo](https://github.com/adamdotdevin/good-repo)
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
 * [Snake-Edition/P32-FW](https://github.com/Snake-Edition/P32-FW)
