@@ -63,7 +63,7 @@
 * [lorabridge/lorabridge](https://github.com/lorabridge/lorabridge)
 * [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus)
 * [s2underground/GhostNet](https://github.com/s2underground/GhostNet)
-* [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+* [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 * [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)
 * [usebruno/bruno](https://github.com/usebruno/bruno)
 * [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom)
