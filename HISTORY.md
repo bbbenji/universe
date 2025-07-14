@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
+* [mieubrisse/cmdk](https://github.com/mieubrisse/cmdk)
+* [chrisvel/tududi](https://github.com/chrisvel/tududi)
 * [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system)
 * [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
 * [zumerlab/snapdom](https://github.com/zumerlab/snapdom)
@@ -38,7 +41,7 @@
 * [ad-on-is/odin-server](https://github.com/ad-on-is/odin-server)
 * [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 * [skariel/keypub](https://github.com/skariel/keypub)
-* [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
+* [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest)
 * [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions)
 * [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress)
 * [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
