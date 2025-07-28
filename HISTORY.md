@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [zacharyd3/Blitz-LightningTracker](https://github.com/zacharyd3/Blitz-LightningTracker)
 * [ByteAtATime/raycast-linux](https://github.com/ByteAtATime/raycast-linux)
 * [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
 * [mieubrisse/cmdk](https://github.com/mieubrisse/cmdk)
