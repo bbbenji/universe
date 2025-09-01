@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
+* [winapps-org/winapps](https://github.com/winapps-org/winapps)
 * [zacharyd3/Blitz-LightningTracker](https://github.com/zacharyd3/Blitz-LightningTracker)
 * [ByteAtATime/flare](https://github.com/ByteAtATime/flare)
 * [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
