@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [TibixDev/winboat](https://github.com/TibixDev/winboat)
+* [therepanic/spotilyrics](https://github.com/therepanic/spotilyrics)
 * [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
 * [winapps-org/winapps](https://github.com/winapps-org/winapps)
 * [zacharyd3/Blitz-LightningTracker](https://github.com/zacharyd3/Blitz-LightningTracker)
