@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+* [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 * [TibixDev/winboat](https://github.com/TibixDev/winboat)
 * [therepanic/spotilyrics](https://github.com/therepanic/spotilyrics)
 * [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
