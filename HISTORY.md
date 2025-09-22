@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide)
 * [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
 * [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 * [TibixDev/winboat](https://github.com/TibixDev/winboat)
@@ -142,7 +143,6 @@
 * [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)
 * [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description)
-* [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android)
 * [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
 * [noproto/FlipperMfkey](https://github.com/noproto/FlipperMfkey)
 * [tinacms/tinasaurus](https://github.com/tinacms/tinasaurus)
