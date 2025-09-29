@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [imputnet/helium](https://github.com/imputnet/helium)
+* [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 * [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide)
 * [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
 * [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
@@ -64,7 +66,6 @@
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 * [themeselection/flyonui](https://github.com/themeselection/flyonui)
 * [cosmic-utils/cosmic-project-collection](https://github.com/cosmic-utils/cosmic-project-collection)
-* [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history)
 * [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
 * [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
 * [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing)
