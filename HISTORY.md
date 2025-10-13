@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [acidkill/n8n-nodes-limitless](https://github.com/acidkill/n8n-nodes-limitless)
+* [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 * [imputnet/helium](https://github.com/imputnet/helium)
 * [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 * [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide)
