@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 * [acidkill/n8n-nodes-limitless](https://github.com/acidkill/n8n-nodes-limitless)
 * [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 * [imputnet/helium](https://github.com/imputnet/helium)
