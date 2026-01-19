@@ -1,7 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [ibehnam/shellock](https://github.com/ibehnam/shellock)
 * [LightDestory/FilamentRFIDTool](https://github.com/LightDestory/FilamentRFIDTool)
-* [daveallie/crosspoint-reader](https://github.com/daveallie/crosspoint-reader)
+* [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 * [acidkill/n8n-nodes-limitless](https://github.com/acidkill/n8n-nodes-limitless)
 * [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
