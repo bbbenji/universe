@@ -1,10 +1,8 @@
 # List of all my starred GitHub repositories
 
 * [ibehnam/shellock](https://github.com/ibehnam/shellock)
-* [LightDestory/FilamentRFIDTool](https://github.com/LightDestory/FilamentRFIDTool)
 * [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
-* [acidkill/n8n-nodes-limitless](https://github.com/acidkill/n8n-nodes-limitless)
 * [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
 * [imputnet/helium](https://github.com/imputnet/helium)
 * [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -155,7 +153,7 @@
 * [tinacms/tinasaurus](https://github.com/tinacms/tinasaurus)
 * [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
 * [guidoism/wildwood](https://github.com/guidoism/wildwood)
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [f/prompts.chat](https://github.com/f/prompts.chat)
 * [adamdotdevin/good-repo](https://github.com/adamdotdevin/good-repo)
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension)
