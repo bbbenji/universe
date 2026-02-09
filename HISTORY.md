@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 * [ibehnam/shellock](https://github.com/ibehnam/shellock)
 * [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
