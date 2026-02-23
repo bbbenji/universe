@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [dannymcc/bluehood](https://github.com/dannymcc/bluehood)
 * [betaflight/betaflight](https://github.com/betaflight/betaflight)
 * [c15t/c15t](https://github.com/c15t/c15t)
 * [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
