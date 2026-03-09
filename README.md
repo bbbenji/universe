@@ -9,282 +9,283 @@
 * Great opportunity to play around with Go, GitHub API (using [go-github](https://github.com/google/go-github)) and GitHub Actions :man_technologist:
 
 ## Stars
-**295** stars discovered so far
+**296** stars discovered so far
 
 ### Living Stars
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
-[mise (jdx)](https://github.com/jdx/mise) | 25147 | 2026-03-02 01:51 | Rust | MIT License
-[SmartTube (yuliskov)](https://github.com/yuliskov/SmartTube) | 28509 | 2026-03-02 01:33 | Java | MIT License
-[astro (withastro)](https://github.com/withastro/astro) | 57191 | 2026-03-02 01:20 | TypeScript | Other
-[invesalius3 (invesalius)](https://github.com/invesalius/invesalius3) | 762 | 2026-03-02 01:15 | Python | GNU General Public License v2.0
-[paperless-ngx (paperless-ngx)](https://github.com/paperless-ngx/paperless-ngx) | 37042 | 2026-03-02 00:47 | Python | GNU General Public License v3.0
-[I-Still-Dont-Care-About-Cookies (OhMyGuus)](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | 4114 | 2026-03-02 00:25 | JavaScript | GNU General Public License v3.0
-[iptv (iptv-org)](https://github.com/iptv-org/iptv) | 112280 | 2026-03-02 00:16 | TypeScript | The Unlicense
-[mealie (mealie-recipes)](https://github.com/mealie-recipes/mealie) | 11580 | 2026-03-02 00:12 | Python | GNU Affero General Public License v3.0
+[paperless-ngx (paperless-ngx)](https://github.com/paperless-ngx/paperless-ngx) | 37223 | 2026-03-09 01:56 | Python | GNU General Public License v3.0
+[romm (rommapp)](https://github.com/rommapp/romm) | 8022 | 2026-03-09 01:43 | Python | GNU Affero General Public License v3.0
+[SmartTube (yuliskov)](https://github.com/yuliskov/SmartTube) | 28641 | 2026-03-09 01:33 | Java | MIT License
+[polishedcrystal (Rangi42)](https://github.com/Rangi42/polishedcrystal) | 1456 | 2026-03-09 01:17 | Assembly | 
+[astro (withastro)](https://github.com/withastro/astro) | 57350 | 2026-03-09 00:52 | TypeScript | Other
+[snapdom (zumerlab)](https://github.com/zumerlab/snapdom) | 7596 | 2026-03-09 00:52 | JavaScript | MIT License
+[Win11Debloat (Raphire)](https://github.com/Raphire/Win11Debloat) | 40871 | 2026-03-09 00:47 | PowerShell | MIT License
+[sherlock (sherlock-project)](https://github.com/sherlock-project/sherlock) | 73488 | 2026-03-09 00:34 | Python | MIT License
+[I-Still-Dont-Care-About-Cookies (OhMyGuus)](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | 4121 | 2026-03-09 00:25 | JavaScript | GNU General Public License v3.0
+[vicinae (vicinaehq)](https://github.com/vicinaehq/vicinae) | 6702 | 2026-03-09 00:19 | C++ | GNU General Public License v3.0
+[iptv (iptv-org)](https://github.com/iptv-org/iptv) | 112605 | 2026-03-09 00:16 | TypeScript | The Unlicense
+[mise (jdx)](https://github.com/jdx/mise) | 25418 | 2026-03-09 00:13 | Rust | MIT License
+[learn-javascript (sumn2u)](https://github.com/sumn2u/learn-javascript) | 1025 | 2026-03-08 23:40 | HTML | Apache License 2.0
+[Momentum-Firmware (Next-Flip)](https://github.com/Next-Flip/Momentum-Firmware) | 8174 | 2026-03-08 23:25 | C | GNU General Public License v3.0
+[tududi (chrisvel)](https://github.com/chrisvel/tududi) | 2255 | 2026-03-08 23:10 | TypeScript | MIT License
+[helium (imputnet)](https://github.com/imputnet/helium) | 12170 | 2026-03-08 23:10 | C++ | GNU General Public License v3.0
+[trackerslist (ngosang)](https://github.com/ngosang/trackerslist) | 53131 | 2026-03-08 23:09 |  | GNU General Public License v2.0
+[MMRL (MMRLApp)](https://github.com/MMRLApp/MMRL) | 1882 | 2026-03-08 22:24 | Kotlin | GNU General Public License v3.0
+[mealie (mealie-recipes)](https://github.com/mealie-recipes/mealie) | 11631 | 2026-03-08 21:42 | Python | GNU Affero General Public License v3.0
+[dub (dubinc)](https://github.com/dubinc/dub) | 23159 | 2026-03-08 21:14 | TypeScript | Other
+[fwupd (fwupd)](https://github.com/fwupd/fwupd) | 3859 | 2026-03-08 19:16 | C | GNU Lesser General Public License v2.1
+[crosspoint-reader (crosspoint-reader)](https://github.com/crosspoint-reader/crosspoint-reader) | 2529 | 2026-03-08 19:15 | C | MIT License
+[spotilyrics (therepanic)](https://github.com/therepanic/spotilyrics) | 65 | 2026-03-08 18:42 | TypeScript | The Unlicense
+[betaflight (betaflight)](https://github.com/betaflight/betaflight) | 10674 | 2026-03-08 18:34 | C | GNU General Public License v3.0
+[scrypted (koush)](https://github.com/koush/scrypted) | 5580 | 2026-03-08 17:42 | TypeScript | Other
+[iptvnator (4gray)](https://github.com/4gray/iptvnator) | 5720 | 2026-03-08 17:17 | TypeScript | MIT License
+[karakeep (karakeep-app)](https://github.com/karakeep-app/karakeep) | 23987 | 2026-03-08 17:14 | TypeScript | GNU Affero General Public License v3.0
+[Valetudo (Hypfer)](https://github.com/Hypfer/Valetudo) | 8757 | 2026-03-08 17:04 | JavaScript | Apache License 2.0
+[appwrite (appwrite)](https://github.com/appwrite/appwrite) | 55062 | 2026-03-08 16:24 | TypeScript | BSD 3-Clause "New" or "Revised" License
+[deepdarkCTI (fastfire)](https://github.com/fastfire/deepdarkCTI) | 6644 | 2026-03-08 15:03 |  | GNU General Public License v3.0
+[cosmic-project-collection (cosmic-utils)](https://github.com/cosmic-utils/cosmic-project-collection) | 292 | 2026-03-08 14:07 | Rust | GNU General Public License v3.0
+[text-generation-webui (oobabooga)](https://github.com/oobabooga/text-generation-webui) | 46186 | 2026-03-08 14:01 | Python | GNU Affero General Public License v3.0
+[PixelFlasher (badabing2005)](https://github.com/badabing2005/PixelFlasher) | 2059 | 2026-03-08 13:45 | Python | GNU General Public License v3.0
+[changedetection.io (dgtlmoon)](https://github.com/dgtlmoon/changedetection.io) | 30494 | 2026-03-08 13:32 | Python | Apache License 2.0
+[stremio-web (Stremio)](https://github.com/Stremio/stremio-web) | 10365 | 2026-03-08 12:24 | JavaScript | GNU General Public License v2.0
+[ui (shadcn-ui)](https://github.com/shadcn-ui/ui) | 108714 | 2026-03-08 12:15 | TypeScript | MIT License
+[graphql (redwoodjs)](https://github.com/redwoodjs/graphql) | 17637 | 2026-03-08 11:23 | TypeScript | MIT License
+[fucking-awesome-flipperzero (Correia-jpv)](https://github.com/Correia-jpv/fucking-awesome-flipperzero) | 377 | 2026-03-08 08:43 |  | Creative Commons Zero v1.0 Universal
+[caddy-docker-proxy (lucaslorentz)](https://github.com/lucaslorentz/caddy-docker-proxy) | 4317 | 2026-03-08 07:04 | Go | MIT License
+[winutil (ChrisTitusTech)](https://github.com/ChrisTitusTech/winutil) | 48761 | 2026-03-08 04:29 | PowerShell | MIT License
+[invesalius3 (invesalius)](https://github.com/invesalius/invesalius3) | 769 | 2026-03-08 03:22 | Python | GNU General Public License v2.0
+[chrome-devtools-mcp (ChromeDevTools)](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 28118 | 2026-03-08 03:05 | TypeScript | Apache License 2.0
+[osgameclones (opengaming)](https://github.com/opengaming/osgameclones) | 2022 | 2026-03-08 02:30 | Python | Other
+[Fabric (danielmiessler)](https://github.com/danielmiessler/Fabric) | 39592 | 2026-03-07 23:17 | Go | MIT License
+[HEAD (joshbuchea)](https://github.com/joshbuchea/HEAD) | 30239 | 2026-03-07 21:33 |  | 
+[shannon (KeygraphHQ)](https://github.com/KeygraphHQ/shannon) | 32718 | 2026-03-07 19:56 | TypeScript | GNU Affero General Public License v3.0
+[atuin (atuinsh)](https://github.com/atuinsh/atuin) | 28568 | 2026-03-06 22:54 | Rust | MIT License
+[svgl (pheralb)](https://github.com/pheralb/svgl) | 5606 | 2026-03-06 22:01 | TypeScript | MIT License
+[partytown (QwikDev)](https://github.com/QwikDev/partytown) | 13657 | 2026-03-06 20:59 | TypeScript | MIT License
+[starlight (withastro)](https://github.com/withastro/starlight) | 8032 | 2026-03-06 19:23 | TypeScript | MIT License
+[bruno (usebruno)](https://github.com/usebruno/bruno) | 41526 | 2026-03-06 18:53 | JavaScript | MIT License
+[yournextstore (yournextstore)](https://github.com/yournextstore/yournextstore) | 5326 | 2026-03-06 16:57 | MDX | MIT License
+[revanced-magisk-module (j-hc)](https://github.com/j-hc/revanced-magisk-module) | 6992 | 2026-03-06 16:39 | Shell | GNU General Public License v3.0
+[developer-roadmap (kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap) | 350503 | 2026-03-06 15:06 | TypeScript | Other
+[OpenSpool (spuder)](https://github.com/spuder/OpenSpool) | 687 | 2026-03-06 14:55 | C++ | Other
+[chili3d (xiangechen)](https://github.com/xiangechen/chili3d) | 4334 | 2026-03-06 12:18 | TypeScript | GNU Affero General Public License v3.0
+[gitingest (coderamp-labs)](https://github.com/coderamp-labs/gitingest) | 14104 | 2026-03-06 10:50 | Python | MIT License
+[remote-jobs (remoteintech)](https://github.com/remoteintech/remote-jobs) | 40062 | 2026-03-06 10:13 | Nunjucks | Other
+[flyonui (themeselection)](https://github.com/themeselection/flyonui) | 2373 | 2026-03-06 07:56 | TypeScript | Other
+[gaggiuino (Zer0-bit)](https://github.com/Zer0-bit/gaggiuino) | 2482 | 2026-03-06 06:42 |  | Other
+[linkinator (JustinBeckwith)](https://github.com/JustinBeckwith/linkinator) | 1182 | 2026-03-06 00:13 | TypeScript | MIT License
+[medusa (medusajs)](https://github.com/medusajs/medusa) | 32272 | 2026-03-06 00:02 | TypeScript | MIT License
+[macos (dockur)](https://github.com/dockur/macos) | 18740 | 2026-03-05 23:03 | Shell | MIT License
+[windows (dockur)](https://github.com/dockur/windows) | 50262 | 2026-03-05 21:49 | Shell | MIT License
+[superfile (yorukot)](https://github.com/yorukot/superfile) | 16856 | 2026-03-05 19:42 | Go | MIT License
+[shoelace (shoelace-style)](https://github.com/shoelace-style/shoelace) | 13867 | 2026-03-05 19:38 | TypeScript | MIT License
+[WatchFlower (emericg)](https://github.com/emericg/WatchFlower) | 224 | 2026-03-05 18:47 | C++ | GNU General Public License v3.0
+[c15t (c15t)](https://github.com/c15t/c15t) | 1606 | 2026-03-05 09:33 | TypeScript | GNU General Public License v3.0
+[ouch (ouch-org)](https://github.com/ouch-org/ouch) | 3416 | 2026-03-04 23:13 | Rust | Other
+[30-seconds-of-code (Chalarangelo)](https://github.com/Chalarangelo/30-seconds-of-code) | 126993 | 2026-03-04 23:12 | JavaScript | Creative Commons Attribution 4.0 International
+[awesome-openclaw-usecases (hesamsheikh)](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 21283 | 2026-03-04 19:02 |  | MIT License
+[awesome (sindresorhus)](https://github.com/sindresorhus/awesome) | 443800 | 2026-03-04 16:56 |  | Creative Commons Zero v1.0 Universal
+[FiraCode (tonsky)](https://github.com/tonsky/FiraCode) | 81258 | 2026-03-04 12:57 | Clojure | SIL Open Font License 1.1
+[btop (aristocratos)](https://github.com/aristocratos/btop) | 30777 | 2026-03-04 10:16 | C++ | Apache License 2.0
+[quickemu (quickemu-project)](https://github.com/quickemu-project/quickemu) | 14586 | 2026-03-04 09:55 | Shell | MIT License
+[unlighthouse (harlan-zw)](https://github.com/harlan-zw/unlighthouse) | 4446 | 2026-03-04 01:07 | JavaScript | MIT License
+[yt-dlp (yt-dlp)](https://github.com/yt-dlp/yt-dlp) | 150208 | 2026-03-03 16:54 | Python | The Unlicense
+[front-end-interview-handbook (yangshun)](https://github.com/yangshun/front-end-interview-handbook) | 43877 | 2026-03-03 12:54 | MDX | MIT License
+[thorium (Alex313031)](https://github.com/Alex313031/thorium) | 6863 | 2026-03-02 19:01 | C++ | BSD 3-Clause "New" or "Revised" License
+[mitmproxy2swagger (alufers)](https://github.com/alufers/mitmproxy2swagger) | 9255 | 2026-03-02 18:26 | HTML | 
 [pebble_watchface_framework (clach04)](https://github.com/clach04/pebble_watchface_framework) | 27 | 2026-03-02 00:10 | C | Apache License 2.0
-[vicinae (vicinaehq)](https://github.com/vicinaehq/vicinae) | 6615 | 2026-03-01 23:57 | C++ | GNU General Public License v3.0
-[Momentum-Firmware (Next-Flip)](https://github.com/Next-Flip/Momentum-Firmware) | 8140 | 2026-03-01 23:37 | C | GNU General Public License v3.0
-[appwrite (appwrite)](https://github.com/appwrite/appwrite) | 54987 | 2026-03-01 23:15 | TypeScript | BSD 3-Clause "New" or "Revised" License
-[trackerslist (ngosang)](https://github.com/ngosang/trackerslist) | 53074 | 2026-03-01 23:09 |  | GNU General Public License v2.0
-[deepdarkCTI (fastfire)](https://github.com/fastfire/deepdarkCTI) | 6612 | 2026-03-01 22:58 |  | GNU General Public License v3.0
-[betaflight (betaflight)](https://github.com/betaflight/betaflight) | 10651 | 2026-03-01 21:18 | C | GNU General Public License v3.0
-[graphql (redwoodjs)](https://github.com/redwoodjs/graphql) | 17640 | 2026-03-01 20:48 | TypeScript | MIT License
-[scrypted (koush)](https://github.com/koush/scrypted) | 5566 | 2026-03-01 20:40 | TypeScript | Other
-[medusa (medusajs)](https://github.com/medusajs/medusa) | 32183 | 2026-03-01 20:15 | TypeScript | MIT License
-[chrome-devtools-mcp (ChromeDevTools)](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 27118 | 2026-03-01 17:58 | TypeScript | Apache License 2.0
-[karakeep (karakeep-app)](https://github.com/karakeep-app/karakeep) | 23841 | 2026-03-01 17:17 | TypeScript | GNU Affero General Public License v3.0
-[crosspoint-reader (crosspoint-reader)](https://github.com/crosspoint-reader/crosspoint-reader) | 2410 | 2026-03-01 16:43 | C | MIT License
-[PixelFlasher (badabing2005)](https://github.com/badabing2005/PixelFlasher) | 2045 | 2026-03-01 15:03 | Python | GNU General Public License v3.0
-[spotilyrics (therepanic)](https://github.com/therepanic/spotilyrics) | 63 | 2026-03-01 15:01 | TypeScript | The Unlicense
-[winapps (winapps-org)](https://github.com/winapps-org/winapps) | 14526 | 2026-03-01 14:44 | Shell | Other
-[fwupd (fwupd)](https://github.com/fwupd/fwupd) | 3840 | 2026-03-01 14:27 | C | GNU Lesser General Public License v2.1
-[tududi (chrisvel)](https://github.com/chrisvel/tududi) | 2240 | 2026-03-01 14:07 | TypeScript | MIT License
-[svgl (pheralb)](https://github.com/pheralb/svgl) | 5592 | 2026-03-01 12:05 | TypeScript | MIT License
-[starlight (withastro)](https://github.com/withastro/starlight) | 7994 | 2026-03-01 08:50 | TypeScript | MIT License
-[ui (shadcn-ui)](https://github.com/shadcn-ui/ui) | 107532 | 2026-03-01 07:33 | TypeScript | MIT License
-[dub (dubinc)](https://github.com/dubinc/dub) | 23120 | 2026-03-01 06:05 | TypeScript | Other
-[sherlock (sherlock-project)](https://github.com/sherlock-project/sherlock) | 73270 | 2026-03-01 05:30 | Python | MIT License
-[romm (rommapp)](https://github.com/rommapp/romm) | 7927 | 2026-03-01 04:30 | Python | GNU Affero General Public License v3.0
-[Fabric (danielmiessler)](https://github.com/danielmiessler/Fabric) | 39409 | 2026-03-01 02:07 | Go | MIT License
-[polishedcrystal (Rangi42)](https://github.com/Rangi42/polishedcrystal) | 1449 | 2026-03-01 01:10 | Assembly | 
-[stremio-web (Stremio)](https://github.com/Stremio/stremio-web) | 10292 | 2026-03-01 00:35 | JavaScript | GNU General Public License v2.0
-[atuin (atuinsh)](https://github.com/atuinsh/atuin) | 28488 | 2026-03-01 00:33 | Rust | MIT License
-[33-js-concepts (leonardomso)](https://github.com/leonardomso/33-js-concepts) | 66265 | 2026-02-28 23:36 | JavaScript | MIT License
-[changedetection.io (dgtlmoon)](https://github.com/dgtlmoon/changedetection.io) | 30403 | 2026-02-28 23:18 | Python | Apache License 2.0
-[osgameclones (opengaming)](https://github.com/opengaming/osgameclones) | 2019 | 2026-02-28 22:52 | Python | Other
-[awesome (sindresorhus)](https://github.com/sindresorhus/awesome) | 441680 | 2026-02-28 18:39 |  | Creative Commons Zero v1.0 Universal
-[revanced-magisk-module (j-hc)](https://github.com/j-hc/revanced-magisk-module) | 6948 | 2026-02-28 17:42 | Shell | GNU General Public License v3.0
-[iptvnator (4gray)](https://github.com/4gray/iptvnator) | 5672 | 2026-02-28 17:40 | TypeScript | MIT License
-[awesome-openclaw-usecases (hesamsheikh)](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 14665 | 2026-02-28 15:02 |  | MIT License
-[quickemu (quickemu-project)](https://github.com/quickemu-project/quickemu) | 14467 | 2026-02-28 13:48 | Shell | MIT License
-[Spoolman (Donkie)](https://github.com/Donkie/Spoolman) | 2227 | 2026-02-28 09:21 | Python | MIT License
-[fucking-awesome-flipperzero (Correia-jpv)](https://github.com/Correia-jpv/fucking-awesome-flipperzero) | 374 | 2026-02-28 08:55 |  | Creative Commons Zero v1.0 Universal
-[SingleFileZ (gildas-lormeau)](https://github.com/gildas-lormeau/SingleFileZ) | 1922 | 2026-02-28 05:37 | JavaScript | GNU Affero General Public License v3.0
-[30-seconds-of-code (Chalarangelo)](https://github.com/Chalarangelo/30-seconds-of-code) | 126909 | 2026-02-28 05:07 | JavaScript | Creative Commons Attribution 4.0 International
-[remote-jobs (remoteintech)](https://github.com/remoteintech/remote-jobs) | 40049 | 2026-02-28 03:52 | Nunjucks | Other
-[bluehood (dannymcc)](https://github.com/dannymcc/bluehood) | 816 | 2026-02-27 23:40 | Python | MIT License
-[gitingest (coderamp-labs)](https://github.com/coderamp-labs/gitingest) | 14054 | 2026-02-27 16:41 | Python | MIT License
-[ripgrep (BurntSushi)](https://github.com/BurntSushi/ripgrep) | 60410 | 2026-02-27 16:25 | Rust | The Unlicense
-[yournextstore (yournextstore)](https://github.com/yournextstore/yournextstore) | 5317 | 2026-02-27 15:38 | MDX | MIT License
-[bruno (usebruno)](https://github.com/usebruno/bruno) | 41210 | 2026-02-27 15:25 | JavaScript | MIT License
-[developer-roadmap (kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap) | 349958 | 2026-02-27 14:58 | TypeScript | Other
-[helium (imputnet)](https://github.com/imputnet/helium) | 11912 | 2026-02-27 14:51 | C++ | GNU General Public License v3.0
-[chili3d (xiangechen)](https://github.com/xiangechen/chili3d) | 4324 | 2026-02-27 14:34 | TypeScript | GNU Affero General Public License v3.0
-[c15t (c15t)](https://github.com/c15t/c15t) | 1592 | 2026-02-27 14:18 | TypeScript | GNU General Public License v3.0
-[superfile (yorukot)](https://github.com/yorukot/superfile) | 16801 | 2026-02-27 14:02 | Go | MIT License
-[btop (aristocratos)](https://github.com/aristocratos/btop) | 30646 | 2026-02-27 06:35 | C++ | Apache License 2.0
-[unlighthouse (harlan-zw)](https://github.com/harlan-zw/unlighthouse) | 4437 | 2026-02-27 05:05 | JavaScript | MIT License
-[linkinator (JustinBeckwith)](https://github.com/JustinBeckwith/linkinator) | 1179 | 2026-02-27 03:39 | TypeScript | MIT License
-[yt-dlp (yt-dlp)](https://github.com/yt-dlp/yt-dlp) | 149159 | 2026-02-26 16:26 | Python | The Unlicense
-[learn-javascript (sumn2u)](https://github.com/sumn2u/learn-javascript) | 1024 | 2026-02-26 00:17 | HTML | Apache License 2.0
-[winutil (ChrisTitusTech)](https://github.com/ChrisTitusTech/winutil) | 48391 | 2026-02-25 23:33 | PowerShell | MIT License
-[thorium (Alex313031)](https://github.com/Alex313031/thorium) | 6844 | 2026-02-25 23:15 | C++ | BSD 3-Clause "New" or "Revised" License
-[winboat (TibixDev)](https://github.com/TibixDev/winboat) | 19138 | 2026-02-25 21:33 | TypeScript | MIT License
-[caddy-docker-proxy (lucaslorentz)](https://github.com/lucaslorentz/caddy-docker-proxy) | 4305 | 2026-02-25 20:22 | Go | MIT License
-[device-detector (matomo-org)](https://github.com/matomo-org/device-detector) | 3441 | 2026-02-25 12:31 | PHP | GNU Lesser General Public License v3.0
-[DevToys (DevToys-app)](https://github.com/DevToys-app/DevToys) | 31024 | 2026-02-25 11:53 | C# | MIT License
-[Flipper-IRDB (Lucaslhm)](https://github.com/Lucaslhm/Flipper-IRDB) | 3927 | 2026-02-25 08:14 |  | Creative Commons Zero v1.0 Universal
-[privacy-settings (StellarSand)](https://github.com/StellarSand/privacy-settings) | 1793 | 2026-02-25 03:56 |  | MIT License
-[shannon (KeygraphHQ)](https://github.com/KeygraphHQ/shannon) | 25937 | 2026-02-24 18:53 | TypeScript | GNU Affero General Public License v3.0
-[WatchFlower (emericg)](https://github.com/emericg/WatchFlower) | 223 | 2026-02-24 18:26 | C++ | GNU General Public License v3.0
-[cosmic-epoch (pop-os)](https://github.com/pop-os/cosmic-epoch) | 5824 | 2026-02-24 17:28 | Just | 
-[cmdk (mieubrisse)](https://github.com/mieubrisse/cmdk) | 103 | 2026-02-24 13:45 | Go | MIT License
-[shoelace (shoelace-style)](https://github.com/shoelace-style/shoelace) | 13863 | 2026-02-23 18:22 | TypeScript | MIT License
-[mitmproxy2swagger (alufers)](https://github.com/alufers/mitmproxy2swagger) | 9245 | 2026-02-23 18:20 | HTML | 
-[gaggiuino (Zer0-bit)](https://github.com/Zer0-bit/gaggiuino) | 2475 | 2026-02-23 04:14 |  | Other
-[MMRL (MMRLApp)](https://github.com/MMRLApp/MMRL) | 1867 | 2026-02-22 19:38 | Kotlin | GNU General Public License v3.0
-[Microsoft-Activation-Scripts (massgravel)](https://github.com/massgravel/Microsoft-Activation-Scripts) | 167371 | 2026-02-22 00:26 | Batchfile | GNU General Public License v3.0
-[front-end-interview-handbook (yangshun)](https://github.com/yangshun/front-end-interview-handbook) | 43862 | 2026-02-21 15:50 | MDX | MIT License
-[Win11Debloat (Raphire)](https://github.com/Raphire/Win11Debloat) | 40378 | 2026-02-19 21:46 | PowerShell | MIT License
-[ouch (ouch-org)](https://github.com/ouch-org/ouch) | 3405 | 2026-02-18 01:21 | Rust | Other
+[winapps (winapps-org)](https://github.com/winapps-org/winapps) | 14569 | 2026-03-01 14:44 | Shell | Other
+[33-js-concepts (leonardomso)](https://github.com/leonardomso/33-js-concepts) | 66268 | 2026-02-28 23:36 | JavaScript | MIT License
+[Spoolman (Donkie)](https://github.com/Donkie/Spoolman) | 2258 | 2026-02-28 09:21 | Python | MIT License
+[SingleFileZ (gildas-lormeau)](https://github.com/gildas-lormeau/SingleFileZ) | 1923 | 2026-02-28 05:37 | JavaScript | GNU Affero General Public License v3.0
+[bluehood (dannymcc)](https://github.com/dannymcc/bluehood) | 851 | 2026-02-27 23:40 | Python | MIT License
+[ripgrep (BurntSushi)](https://github.com/BurntSushi/ripgrep) | 60659 | 2026-02-27 16:25 | Rust | The Unlicense
+[winboat (TibixDev)](https://github.com/TibixDev/winboat) | 19341 | 2026-02-25 21:33 | TypeScript | MIT License
+[device-detector (matomo-org)](https://github.com/matomo-org/device-detector) | 3445 | 2026-02-25 12:31 | PHP | GNU Lesser General Public License v3.0
+[DevToys (DevToys-app)](https://github.com/DevToys-app/DevToys) | 31055 | 2026-02-25 11:53 | C# | MIT License
+[Flipper-IRDB (Lucaslhm)](https://github.com/Lucaslhm/Flipper-IRDB) | 3944 | 2026-02-25 08:14 |  | Creative Commons Zero v1.0 Universal
+[privacy-settings (StellarSand)](https://github.com/StellarSand/privacy-settings) | 1800 | 2026-02-25 03:56 |  | MIT License
+[cosmic-epoch (pop-os)](https://github.com/pop-os/cosmic-epoch) | 5856 | 2026-02-24 17:28 | Just | 
+[cmdk (mieubrisse)](https://github.com/mieubrisse/cmdk) | 104 | 2026-02-24 13:45 | Go | MIT License
+[Microsoft-Activation-Scripts (massgravel)](https://github.com/massgravel/Microsoft-Activation-Scripts) | 168103 | 2026-02-22 00:26 | Batchfile | GNU General Public License v3.0
 [spark-joy (swyxio)](https://github.com/swyxio/spark-joy) | 9731 | 2026-02-16 18:38 |  | MIT License
-[thc-tips-tricks-hacks-cheat-sheet (hackerschoice)](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) | 3783 | 2026-02-16 14:10 | Shell | 
-[awesome-raspberry-pi (thibmaek)](https://github.com/thibmaek/awesome-raspberry-pi) | 16004 | 2026-02-16 08:40 | Shell | Other
-[bhvr (stevedylandev)](https://github.com/stevedylandev/bhvr) | 1758 | 2026-02-15 21:13 | CSS | MIT License
-[You-Dont-Know-JS (getify)](https://github.com/getify/You-Dont-Know-JS) | 184447 | 2026-02-15 04:36 |  | Other
-[opendps (kanflo)](https://github.com/kanflo/opendps) | 942 | 2026-02-14 15:23 | C | MIT License
-[claude-code-guide (Cranot)](https://github.com/Cranot/claude-code-guide) | 2417 | 2026-02-14 10:24 | Shell | 
-[HEAD (joshbuchea)](https://github.com/joshbuchea/HEAD) | 30240 | 2026-02-13 18:10 |  | 
-[privacy.sexy (undergroundwires)](https://github.com/undergroundwires/privacy.sexy) | 5431 | 2026-02-13 10:55 | TypeScript | GNU Affero General Public License v3.0
-[cosmic-project-collection (cosmic-utils)](https://github.com/cosmic-utils/cosmic-project-collection) | 290 | 2026-02-12 01:35 | Rust | GNU General Public License v3.0
-[Valetudo (Hypfer)](https://github.com/Hypfer/Valetudo) | 8735 | 2026-02-11 16:24 | JavaScript | Apache License 2.0
-[bolt.diy (stackblitz-labs)](https://github.com/stackblitz-labs/bolt.diy) | 19065 | 2026-02-07 14:36 | TypeScript | MIT License
-[icones (antfu-collective)](https://github.com/antfu-collective/icones) | 7190 | 2026-02-07 08:01 | Vue | MIT License
-[eol-dr (potatoqualitee)](https://github.com/potatoqualitee/eol-dr) | 3821 | 2026-02-06 23:18 |  | 
-[OMOTE-Firmware (OMOTE-Community)](https://github.com/OMOTE-Community/OMOTE-Firmware) | 1720 | 2026-02-06 17:26 | C++ | GNU General Public License v3.0
-[openplayground (nat)](https://github.com/nat/openplayground) | 6370 | 2026-02-06 04:56 | TypeScript | MIT License
-[pwgen-for-bios (bacher09)](https://github.com/bacher09/pwgen-for-bios) | 1351 | 2026-02-05 02:39 | TypeScript | GNU General Public License v3.0
-[flyonui (themeselection)](https://github.com/themeselection/flyonui) | 2364 | 2026-02-04 14:26 | TypeScript | Other
-[vtracer (visioncortex)](https://github.com/visioncortex/vtracer) | 5532 | 2026-02-04 12:22 | Rust | MIT License
-[Front-End-Checklist (thedaviddias)](https://github.com/thedaviddias/Front-End-Checklist) | 72283 | 2026-02-04 01:08 |  | Creative Commons Zero v1.0 Universal
-[workout-cool (Snouzy)](https://github.com/Snouzy/workout-cool) | 7066 | 2026-02-03 09:20 | TypeScript | MIT License
-[X1Plus (X1Plus)](https://github.com/X1Plus/X1Plus) | 926 | 2026-02-03 09:14 | Python | Other
-[text-generation-webui (oobabooga)](https://github.com/oobabooga/text-generation-webui) | 46106 | 2026-02-03 01:57 | Python | GNU Affero General Public License v3.0
-[bambulab-studio-orca-slicer-presets (DRIgnazGortngschirl)](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets) | 302 | 2026-02-02 19:57 |  | Creative Commons Zero v1.0 Universal
-[Ventoy (ventoy)](https://github.com/ventoy/Ventoy) | 74762 | 2026-02-01 05:54 | C | GNU General Public License v3.0
+[thc-tips-tricks-hacks-cheat-sheet (hackerschoice)](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) | 3789 | 2026-02-16 14:10 | Shell | 
+[awesome-raspberry-pi (thibmaek)](https://github.com/thibmaek/awesome-raspberry-pi) | 16037 | 2026-02-16 08:40 | Shell | Other
+[bhvr (stevedylandev)](https://github.com/stevedylandev/bhvr) | 1766 | 2026-02-15 21:13 | CSS | MIT License
+[You-Dont-Know-JS (getify)](https://github.com/getify/You-Dont-Know-JS) | 184474 | 2026-02-15 04:36 |  | Other
+[opendps (kanflo)](https://github.com/kanflo/opendps) | 944 | 2026-02-14 15:23 | C | MIT License
+[claude-code-guide (Cranot)](https://github.com/Cranot/claude-code-guide) | 2453 | 2026-02-14 10:24 | Shell | 
+[privacy.sexy (undergroundwires)](https://github.com/undergroundwires/privacy.sexy) | 5445 | 2026-02-13 10:55 | TypeScript | GNU Affero General Public License v3.0
+[bolt.diy (stackblitz-labs)](https://github.com/stackblitz-labs/bolt.diy) | 19110 | 2026-02-07 14:36 | TypeScript | MIT License
+[icones (antfu-collective)](https://github.com/antfu-collective/icones) | 7202 | 2026-02-07 08:01 | Vue | MIT License
+[eol-dr (potatoqualitee)](https://github.com/potatoqualitee/eol-dr) | 3826 | 2026-02-06 23:18 |  | 
+[OMOTE-Firmware (OMOTE-Community)](https://github.com/OMOTE-Community/OMOTE-Firmware) | 1722 | 2026-02-06 17:26 | C++ | GNU General Public License v3.0
+[openplayground (nat)](https://github.com/nat/openplayground) | 6368 | 2026-02-06 04:56 | TypeScript | MIT License
+[pwgen-for-bios (bacher09)](https://github.com/bacher09/pwgen-for-bios) | 1354 | 2026-02-05 02:39 | TypeScript | GNU General Public License v3.0
+[vtracer (visioncortex)](https://github.com/visioncortex/vtracer) | 5580 | 2026-02-04 12:22 | Rust | MIT License
+[Front-End-Checklist (thedaviddias)](https://github.com/thedaviddias/Front-End-Checklist) | 72332 | 2026-02-04 01:08 |  | Creative Commons Zero v1.0 Universal
+[workout-cool (Snouzy)](https://github.com/Snouzy/workout-cool) | 7099 | 2026-02-03 09:20 | TypeScript | MIT License
+[X1Plus (X1Plus)](https://github.com/X1Plus/X1Plus) | 929 | 2026-02-03 09:14 | Python | Other
+[bambulab-studio-orca-slicer-presets (DRIgnazGortngschirl)](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets) | 303 | 2026-02-02 19:57 |  | Creative Commons Zero v1.0 Universal
+[Ventoy (ventoy)](https://github.com/ventoy/Ventoy) | 74906 | 2026-02-01 05:54 | C | GNU General Public License v3.0
 [dropflow (chearon)](https://github.com/chearon/dropflow) | 1356 | 2026-02-01 00:11 | TypeScript | MIT License
-[design-resources-for-developers (bradtraversy)](https://github.com/bradtraversy/design-resources-for-developers) | 64908 | 2026-01-31 20:50 |  | MIT License
-[bitmagnet (bitmagnet-io)](https://github.com/bitmagnet-io/bitmagnet) | 3876 | 2026-01-31 11:47 | Go | MIT License
-[awesome-styleguides (streamich)](https://github.com/streamich/awesome-styleguides) | 1238 | 2026-01-29 20:41 |  | 
+[design-resources-for-developers (bradtraversy)](https://github.com/bradtraversy/design-resources-for-developers) | 64981 | 2026-01-31 20:50 |  | MIT License
+[bitmagnet (bitmagnet-io)](https://github.com/bitmagnet-io/bitmagnet) | 3894 | 2026-01-31 11:47 | Go | MIT License
+[awesome-styleguides (streamich)](https://github.com/streamich/awesome-styleguides) | 1239 | 2026-01-29 20:41 |  | 
 [ohshitgit (ksylor)](https://github.com/ksylor/ohshitgit) | 1536 | 2026-01-29 18:58 | Nunjucks | 
-[FiraCode (tonsky)](https://github.com/tonsky/FiraCode) | 81219 | 2026-01-28 16:49 | Clojure | SIL Open Font License 1.1
-[awesome-home-assistant (frenck)](https://github.com/frenck/awesome-home-assistant) | 7410 | 2026-01-27 06:00 | Shell | Creative Commons Attribution 4.0 International
+[awesome-home-assistant (frenck)](https://github.com/frenck/awesome-home-assistant) | 7423 | 2026-01-27 06:00 | Shell | Creative Commons Attribution 4.0 International
 [rot (candiddev)](https://github.com/candiddev/rot) | 507 | 2026-01-26 20:28 |  | 
-[modern-screenshot (qq15725)](https://github.com/qq15725/modern-screenshot) | 1871 | 2026-01-26 01:41 | TypeScript | MIT License
+[modern-screenshot (qq15725)](https://github.com/qq15725/modern-screenshot) | 1878 | 2026-01-26 01:41 | TypeScript | MIT License
 [esphome-xiaomi-philips-light (syssi)](https://github.com/syssi/esphome-xiaomi-philips-light) | 12 | 2026-01-25 16:58 | C++ | MIT License
-[awsm.fish (jorgebucaran)](https://github.com/jorgebucaran/awsm.fish) | 4867 | 2026-01-25 05:07 |  | Creative Commons Zero v1.0 Universal
+[awsm.fish (jorgebucaran)](https://github.com/jorgebucaran/awsm.fish) | 4879 | 2026-01-25 05:07 |  | Creative Commons Zero v1.0 Universal
 [popular-movies (sjlu)](https://github.com/sjlu/popular-movies) | 426 | 2026-01-22 20:40 | JavaScript | MIT License
 [esphome-yeelight-ceiling-light (syssi)](https://github.com/syssi/esphome-yeelight-ceiling-light) | 209 | 2026-01-21 20:11 | C++ | Apache License 2.0
-[dockge (louislam)](https://github.com/louislam/dockge) | 22272 | 2026-01-21 10:51 | TypeScript | MIT License
-[snapdom (zumerlab)](https://github.com/zumerlab/snapdom) | 7581 | 2026-01-21 00:22 | JavaScript | MIT License
+[dockge (louislam)](https://github.com/louislam/dockge) | 22370 | 2026-01-21 10:51 | TypeScript | MIT License
 [pebble.nix (pebble-dev)](https://github.com/pebble-dev/pebble.nix) | 55 | 2026-01-19 20:49 | Nix | MIT License
-[flare (ByteAtATime)](https://github.com/ByteAtATime/flare) | 1435 | 2026-01-17 21:39 | Svelte | MIT License
+[flare (ByteAtATime)](https://github.com/ByteAtATime/flare) | 1439 | 2026-01-17 21:39 | Svelte | MIT License
 [shellock (ibehnam)](https://github.com/ibehnam/shellock) | 57 | 2026-01-16 05:52 | Python | 
-[windows (dockur)](https://github.com/dockur/windows) | 50171 | 2026-01-13 12:43 | Shell | MIT License
-[pizza-dough (hendricius)](https://github.com/hendricius/pizza-dough) | 3629 | 2026-01-13 10:50 | HTML | MIT License
+[pizza-dough (hendricius)](https://github.com/hendricius/pizza-dough) | 3628 | 2026-01-13 10:50 | HTML | MIT License
 [P32-FW (Snake-Edition)](https://github.com/Snake-Edition/P32-FW) | 20 | 2026-01-11 17:17 | C | Other
-[mysigmail (antonreshetov)](https://github.com/antonreshetov/mysigmail) | 1319 | 2026-01-08 00:39 | Vue | GNU Affero General Public License v3.0
-[html-proofer (gjtorikian)](https://github.com/gjtorikian/html-proofer) | 1639 | 2026-01-07 00:40 | Ruby | MIT License
-[open-health (OpenHealthForAll)](https://github.com/OpenHealthForAll/open-health) | 3825 | 2026-01-06 07:07 | TypeScript | GNU Affero General Public License v3.0
-[WhiteSur-gtk-theme (vinceliuice)](https://github.com/vinceliuice/WhiteSur-gtk-theme) | 8644 | 2026-01-05 05:56 | CSS | MIT License
-[awesome-ublacklist (rjaus)](https://github.com/rjaus/awesome-ublacklist) | 617 | 2025-12-30 13:02 |  | Creative Commons Zero v1.0 Universal
+[mysigmail (antonreshetov)](https://github.com/antonreshetov/mysigmail) | 1320 | 2026-01-08 00:39 | Vue | GNU Affero General Public License v3.0
+[html-proofer (gjtorikian)](https://github.com/gjtorikian/html-proofer) | 1640 | 2026-01-07 00:40 | Ruby | MIT License
+[open-health (OpenHealthForAll)](https://github.com/OpenHealthForAll/open-health) | 3828 | 2026-01-06 07:07 | TypeScript | GNU Affero General Public License v3.0
+[WhiteSur-gtk-theme (vinceliuice)](https://github.com/vinceliuice/WhiteSur-gtk-theme) | 8657 | 2026-01-05 05:56 | CSS | MIT License
+[awesome-ublacklist (rjaus)](https://github.com/rjaus/awesome-ublacklist) | 618 | 2025-12-30 13:02 |  | Creative Commons Zero v1.0 Universal
 [vscode-web-visual-editor (urin)](https://github.com/urin/vscode-web-visual-editor) | 628 | 2025-12-30 10:36 | JavaScript | MIT License
-[every-programmer-should-know (mtdvio)](https://github.com/mtdvio/every-programmer-should-know) | 98137 | 2025-12-29 19:37 |  | Creative Commons Attribution 4.0 International
-[pdfs (tpn)](https://github.com/tpn/pdfs) | 9478 | 2025-12-25 23:35 | HTML | 
-[awesome-limitless (panguin6010)](https://github.com/panguin6010/awesome-limitless) | 68 | 2025-12-22 22:23 |  | Creative Commons Zero v1.0 Universal
-[pokemon-cards-css (simeydotme)](https://github.com/simeydotme/pokemon-cards-css) | 7389 | 2025-12-15 06:30 | CSS | GNU General Public License v3.0
-[hass_ingress (lovelylain)](https://github.com/lovelylain/hass_ingress) | 246 | 2025-12-14 05:16 | Python | Apache License 2.0
-[Awesome-Nano-Banana-images (PicoTrex)](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | 21066 | 2025-12-12 19:38 |  | Apache License 2.0
-[SDRPlusPlus (AlexandreRouma)](https://github.com/AlexandreRouma/SDRPlusPlus) | 5703 | 2025-12-12 06:55 | C++ | GNU General Public License v3.0
-[million (aidenybai)](https://github.com/aidenybai/million) | 17545 | 2025-12-11 22:10 | TypeScript | MIT License
-[macos (dockur)](https://github.com/dockur/macos) | 18698 | 2025-12-08 21:09 | Shell | MIT License
-[odin-server (ad-on-is)](https://github.com/ad-on-is/odin-server) | 170 | 2025-12-08 09:10 | Go | GNU General Public License v3.0
-[30-Days-Of-JavaScript (Asabeneh)](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46133 | 2025-12-06 11:12 | JavaScript | 
-[resticker (djmaze)](https://github.com/djmaze/resticker) | 672 | 2025-12-01 23:44 | Shell | Apache License 2.0
-[linkedin-skill-assessments-quizzes (Ebazhanov)](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28671 | 2025-11-28 06:35 | Python | GNU Affero General Public License v3.0
-[DeskThing (ItsRiprod)](https://github.com/ItsRiprod/DeskThing) | 1134 | 2025-11-26 21:43 | TypeScript | MIT License
+[every-programmer-should-know (mtdvio)](https://github.com/mtdvio/every-programmer-should-know) | 98204 | 2025-12-29 19:37 |  | Creative Commons Attribution 4.0 International
+[pdfs (tpn)](https://github.com/tpn/pdfs) | 9536 | 2025-12-25 23:35 | HTML | 
+[awesome-limitless (panguin6010)](https://github.com/panguin6010/awesome-limitless) | 67 | 2025-12-22 22:23 |  | Creative Commons Zero v1.0 Universal
+[pokemon-cards-css (simeydotme)](https://github.com/simeydotme/pokemon-cards-css) | 7400 | 2025-12-15 06:30 | CSS | GNU General Public License v3.0
+[hass_ingress (lovelylain)](https://github.com/lovelylain/hass_ingress) | 247 | 2025-12-14 05:16 | Python | Apache License 2.0
+[Awesome-Nano-Banana-images (PicoTrex)](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | 21204 | 2025-12-12 19:38 |  | Apache License 2.0
+[SDRPlusPlus (AlexandreRouma)](https://github.com/AlexandreRouma/SDRPlusPlus) | 5724 | 2025-12-12 06:55 | C++ | GNU General Public License v3.0
+[million (aidenybai)](https://github.com/aidenybai/million) | 17553 | 2025-12-11 22:10 | TypeScript | MIT License
+[odin-server (ad-on-is)](https://github.com/ad-on-is/odin-server) | 169 | 2025-12-08 09:10 | Go | GNU General Public License v3.0
+[30-Days-Of-JavaScript (Asabeneh)](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46156 | 2025-12-06 11:12 | JavaScript | 
+[resticker (djmaze)](https://github.com/djmaze/resticker) | 674 | 2025-12-01 23:44 | Shell | Apache License 2.0
+[linkedin-skill-assessments-quizzes (Ebazhanov)](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | 28685 | 2025-11-28 06:35 | Python | GNU Affero General Public License v3.0
+[DeskThing (ItsRiprod)](https://github.com/ItsRiprod/DeskThing) | 1135 | 2025-11-26 21:43 | TypeScript | MIT License
 [european-remote-software-companies (EuropeanRemote)](https://github.com/EuropeanRemote/european-remote-software-companies) | 547 | 2025-11-25 21:43 |  | 
-[chatgpt-custom-instructions (DenisSergeevitch)](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) | 2581 | 2025-11-23 17:25 |  | 
+[chatgpt-custom-instructions (DenisSergeevitch)](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) | 2586 | 2025-11-23 17:25 |  | 
 [openmethease (exander77)](https://github.com/exander77/openmethease) | 13 | 2025-11-19 02:08 | JavaScript | 
-[gpt-pilot (Pythagora-io)](https://github.com/Pythagora-io/gpt-pilot) | 33805 | 2025-11-10 13:12 | Python | Other
-[OpenSpool (spuder)](https://github.com/spuder/OpenSpool) | 679 | 2025-11-10 03:00 | C++ | Other
+[gpt-pilot (Pythagora-io)](https://github.com/Pythagora-io/gpt-pilot) | 33804 | 2025-11-10 13:12 | Python | Other
+[activate-linux (MrGlockenspiel)](https://github.com/MrGlockenspiel/activate-linux) | 5724 | 2025-11-04 01:14 | C | GNU General Public License v3.0
 [tinasaurus (tinacms)](https://github.com/tinacms/tinasaurus) | 203 | 2025-10-28 04:39 | JavaScript | 
-[awesome-cursorrules (PatrickJS)](https://github.com/PatrickJS/awesome-cursorrules) | 38167 | 2025-10-24 16:37 | MDX | Creative Commons Zero v1.0 Universal
+[awesome-cursorrules (PatrickJS)](https://github.com/PatrickJS/awesome-cursorrules) | 38321 | 2025-10-24 16:37 | MDX | Creative Commons Zero v1.0 Universal
 [ChatGPT-Gnome-Desktop-Extension (HorrorPills)](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) | 564 | 2025-10-19 09:36 | JavaScript | MIT License
-[Mr.-Ranedeer-AI-Tutor (JushBJJ)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | 29691 | 2025-09-30 08:08 |  | 
+[Mr.-Ranedeer-AI-Tutor (JushBJJ)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | 29681 | 2025-09-30 08:08 |  | 
 [FaceAge (AIM-Harvard)](https://github.com/AIM-Harvard/FaceAge) | 97 | 2025-09-23 09:12 | Jupyter Notebook | 
-[partytown (QwikDev)](https://github.com/QwikDev/partytown) | 13651 | 2025-09-09 14:45 | TypeScript | MIT License
-[gridfinity-rebuilt-openscad (kennetek)](https://github.com/kennetek/gridfinity-rebuilt-openscad) | 2080 | 2025-08-31 23:35 | OpenSCAD | Other
-[tron (bmrf)](https://github.com/bmrf/tron) | 6247 | 2025-08-30 17:30 | Batchfile | MIT License
-[Blitz-LightningTracker (zacharyd3)](https://github.com/zacharyd3/Blitz-LightningTracker) | 47 | 2025-08-21 02:59 |  | GNU General Public License v3.0
-[seedbox-lite (hotheadhacker)](https://github.com/hotheadhacker/seedbox-lite) | 4490 | 2025-08-20 15:08 | JavaScript | Other
+[gridfinity-rebuilt-openscad (kennetek)](https://github.com/kennetek/gridfinity-rebuilt-openscad) | 2086 | 2025-08-31 23:35 | OpenSCAD | Other
+[tron (bmrf)](https://github.com/bmrf/tron) | 6254 | 2025-08-30 17:30 | Batchfile | MIT License
+[Blitz-LightningTracker (zacharyd3)](https://github.com/zacharyd3/Blitz-LightningTracker) | 46 | 2025-08-21 02:59 |  | GNU General Public License v3.0
+[seedbox-lite (hotheadhacker)](https://github.com/hotheadhacker/seedbox-lite) | 4494 | 2025-08-20 15:08 | JavaScript | Other
 [ESPBell-MAX (PricelessToolkit)](https://github.com/PricelessToolkit/ESPBell-MAX) | 164 | 2025-08-14 16:38 | HTML | MIT License
 [openai-pr-description (platisd)](https://github.com/platisd/openai-pr-description) | 51 | 2025-08-07 21:00 | Python | MIT License
-[eruda (liriliri)](https://github.com/liriliri/eruda) | 20793 | 2025-08-01 09:34 | JavaScript | MIT License
+[eruda (liriliri)](https://github.com/liriliri/eruda) | 20810 | 2025-08-01 09:34 | JavaScript | MIT License
 [roborock-oucher (porech)](https://github.com/porech/roborock-oucher) | 209 | 2025-07-08 08:33 | Go | MIT License
 [codelf (unbug)](https://github.com/unbug/codelf) | 14202 | 2025-06-06 02:57 | JavaScript | Other
 [awesome-recipes (bbbenji)](https://github.com/bbbenji/awesome-recipes) | 57 | 2025-05-26 20:35 |  | 
 [IKEA-Hackant (robin7331)](https://github.com/robin7331/IKEA-Hackant) | 264 | 2025-05-26 15:08 | C++ | 
-[awesome-gpt4o-images (jamez-bondos)](https://github.com/jamez-bondos/awesome-gpt4o-images) | 7860 | 2025-05-26 02:32 | JavaScript | Other
+[awesome-gpt4o-images (jamez-bondos)](https://github.com/jamez-bondos/awesome-gpt4o-images) | 7857 | 2025-05-26 02:32 | JavaScript | Other
 [clipea (dave1010)](https://github.com/dave1010/clipea) | 312 | 2025-05-20 06:40 | Python | MIT License
-[b-parasite (rbaron)](https://github.com/rbaron/b-parasite) | 2344 | 2025-05-02 05:54 | C | 
-[uBlock-Origin-dev-filter (quenhus)](https://github.com/quenhus/uBlock-Origin-dev-filter) | 2325 | 2025-04-24 19:50 | Python | The Unlicense
+[b-parasite (rbaron)](https://github.com/rbaron/b-parasite) | 2347 | 2025-05-02 05:54 | C | 
+[uBlock-Origin-dev-filter (quenhus)](https://github.com/quenhus/uBlock-Origin-dev-filter) | 2323 | 2025-04-24 19:50 | Python | The Unlicense
 [Chocolate (ChocolateApp)](https://github.com/ChocolateApp/Chocolate) | 461 | 2025-04-21 16:55 | Python | GNU General Public License v3.0
 [FacebookClearActivityLog2025 (BinaryWorlds)](https://github.com/BinaryWorlds/FacebookClearActivityLog2025) | 35 | 2025-04-21 12:04 | JavaScript | 
-[nodebestpractices (goldbergyoni)](https://github.com/goldbergyoni/nodebestpractices) | 105136 | 2025-04-15 21:52 | Dockerfile | Creative Commons Attribution Share Alike 4.0 International
-[trogon (Textualize)](https://github.com/Textualize/trogon) | 2809 | 2025-04-15 14:06 | Python | MIT License
+[nodebestpractices (goldbergyoni)](https://github.com/goldbergyoni/nodebestpractices) | 105159 | 2025-04-15 21:52 | Dockerfile | Creative Commons Attribution Share Alike 4.0 International
+[trogon (Textualize)](https://github.com/Textualize/trogon) | 2818 | 2025-04-15 14:06 | Python | MIT License
 [discotool (Neradoc)](https://github.com/Neradoc/discotool) | 85 | 2025-03-27 17:39 | Python | MIT License
 [cocommit (andrewromanenco)](https://github.com/andrewromanenco/cocommit) | 147 | 2025-03-23 18:19 | Python | MIT License
-[Front-End-Performance-Checklist (thedaviddias)](https://github.com/thedaviddias/Front-End-Performance-Checklist) | 17223 | 2025-03-23 17:55 |  | MIT License
-[css-protips (AllThingsSmitty)](https://github.com/AllThingsSmitty/css-protips) | 29888 | 2025-03-20 14:10 |  | Creative Commons Zero v1.0 Universal
+[Front-End-Performance-Checklist (thedaviddias)](https://github.com/thedaviddias/Front-End-Performance-Checklist) | 17226 | 2025-03-23 17:55 |  | MIT License
+[css-protips (AllThingsSmitty)](https://github.com/AllThingsSmitty/css-protips) | 29907 | 2025-03-20 14:10 |  | Creative Commons Zero v1.0 Universal
 [homeassistant-roborock (humbertogontijo)](https://github.com/humbertogontijo/homeassistant-roborock) | 735 | 2025-03-06 13:59 | Python | GNU General Public License v3.0
-[PairDrop (schlagmichdoch)](https://github.com/schlagmichdoch/PairDrop) | 9859 | 2025-02-25 17:19 | JavaScript | GNU General Public License v3.0
-[reverse-interview (viraptor)](https://github.com/viraptor/reverse-interview) | 28503 | 2025-02-19 22:41 |  | Other
+[PairDrop (schlagmichdoch)](https://github.com/schlagmichdoch/PairDrop) | 9916 | 2025-02-25 17:19 | JavaScript | GNU General Public License v3.0
+[reverse-interview (viraptor)](https://github.com/viraptor/reverse-interview) | 28507 | 2025-02-19 22:41 |  | Other
 [printwatch-card (drkpxl)](https://github.com/drkpxl/printwatch-card) | 38 | 2025-02-03 18:37 | JavaScript | 
-[flipperzero-evil-portal (RogueMaster)](https://github.com/RogueMaster/flipperzero-evil-portal) | 234 | 2025-01-31 21:11 | HTML | GNU General Public License v3.0
-[GooglePhotosTakeoutHelper (TheLastGimbus)](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) | 5532 | 2025-01-29 08:39 | Dart | Apache License 2.0
-[FormBee (FormBee)](https://github.com/FormBee/FormBee) | 758 | 2025-01-29 05:17 | TypeScript | MIT License
+[flipperzero-evil-portal (RogueMaster)](https://github.com/RogueMaster/flipperzero-evil-portal) | 236 | 2025-01-31 21:11 | HTML | GNU General Public License v3.0
+[GooglePhotosTakeoutHelper (TheLastGimbus)](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) | 5551 | 2025-01-29 08:39 | Dart | Apache License 2.0
+[FormBee (FormBee)](https://github.com/FormBee/FormBee) | 760 | 2025-01-29 05:17 | TypeScript | MIT License
 [keypub (skariel)](https://github.com/skariel/keypub) | 307 | 2025-01-26 16:28 | Go | MIT License
 [bsnotify (jonans)](https://github.com/jonans/bsnotify) | 34 | 2025-01-20 06:34 | Python | 
-[MaterialDesign (Templarian)](https://github.com/Templarian/MaterialDesign) | 11262 | 2025-01-20 01:57 |  | Other
+[MaterialDesign (Templarian)](https://github.com/Templarian/MaterialDesign) | 11264 | 2025-01-20 01:57 |  | Other
 [vape-power-bank (chrisdoelcreates)](https://github.com/chrisdoelcreates/vape-power-bank) | 113 | 2025-01-18 17:33 |  | MIT License
-[instant.page (instantpage)](https://github.com/instantpage/instant.page) | 6217 | 2025-01-15 23:19 | JavaScript | MIT License
+[instant.page (instantpage)](https://github.com/instantpage/instant.page) | 6219 | 2025-01-15 23:19 | JavaScript | MIT License
 [ATC_MiThermometer (atc1441)](https://github.com/atc1441/ATC_MiThermometer) | 3274 | 2025-01-15 12:16 | C | 
 [OpenCore-t470s (ik4y)](https://github.com/ik4y/OpenCore-t470s) | 6 | 2025-01-01 21:11 | ASL | MIT License
-[bolt.new (stackblitz)](https://github.com/stackblitz/bolt.new) | 16227 | 2024-12-17 06:29 | TypeScript | MIT License
+[bolt.new (stackblitz)](https://github.com/stackblitz/bolt.new) | 16243 | 2024-12-17 06:29 | TypeScript | MIT License
 [swag-for-dev (swapagarwal)](https://github.com/swapagarwal/swag-for-dev) | 4370 | 2024-12-09 08:36 | JavaScript | Creative Commons Zero v1.0 Universal
 [Opencore-Visual-Beginners-Guide (chriswayg)](https://github.com/chriswayg/Opencore-Visual-Beginners-Guide) | 26 | 2024-12-06 06:19 |  | Other
-[progress (Xfennec)](https://github.com/Xfennec/progress) | 8825 | 2024-11-19 08:43 | C | GNU General Public License v3.0
-[GhostNet (s2underground)](https://github.com/s2underground/GhostNet) | 1194 | 2024-10-30 12:01 |  | 
+[progress (Xfennec)](https://github.com/Xfennec/progress) | 8827 | 2024-11-19 08:43 | C | GNU General Public License v3.0
+[GhostNet (s2underground)](https://github.com/s2underground/GhostNet) | 1199 | 2024-10-30 12:01 |  | 
 [All-In-One-WP-Migration-With-Import (d0n601)](https://github.com/d0n601/All-In-One-WP-Migration-With-Import) | 713 | 2024-10-28 17:43 | PHP | GNU General Public License v3.0
-[awesome-flipperzero (djsime1)](https://github.com/djsime1/awesome-flipperzero) | 22935 | 2024-09-27 15:36 |  | Creative Commons Zero v1.0 Universal
-[Flipper-Zero-Sub-GHz-Jamming-Files (SHUR1K-N)](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files) | 2202 | 2024-09-19 09:09 |  | 
+[awesome-flipperzero (djsime1)](https://github.com/djsime1/awesome-flipperzero) | 22973 | 2024-09-27 15:36 |  | Creative Commons Zero v1.0 Universal
+[Flipper-Zero-Sub-GHz-Jamming-Files (SHUR1K-N)](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files) | 2205 | 2024-09-19 09:09 |  | 
 [HubAlyzer (HorstBaerbel)](https://github.com/HorstBaerbel/HubAlyzer) | 15 | 2024-09-05 23:04 | C++ | MIT License
 [pdftilecut (oxplot)](https://github.com/oxplot/pdftilecut) | 362 | 2024-09-03 21:00 | Go | BSD 3-Clause "New" or "Revised" License
-[awesome-actions (sdras)](https://github.com/sdras/awesome-actions) | 27507 | 2024-09-01 20:32 |  | Creative Commons Zero v1.0 Universal
-[uv-k5-firmware-custom (egzumer)](https://github.com/egzumer/uv-k5-firmware-custom) | 1803 | 2024-08-20 11:11 | C | Apache License 2.0
+[awesome-actions (sdras)](https://github.com/sdras/awesome-actions) | 27530 | 2024-09-01 20:32 |  | Creative Commons Zero v1.0 Universal
+[uv-k5-firmware-custom (egzumer)](https://github.com/egzumer/uv-k5-firmware-custom) | 1805 | 2024-08-20 11:11 | C | Apache License 2.0
 [cryptocurrency-icons (spothq)](https://github.com/spothq/cryptocurrency-icons) | 2721 | 2024-08-19 15:29 | JavaScript | Creative Commons Zero v1.0 Universal
-[universal-android-debloater (0x192)](https://github.com/0x192/universal-android-debloater) | 18890 | 2024-08-02 16:16 | Rust | GNU General Public License v3.0
-[Awesome-Design-Tools (goabstract)](https://github.com/goabstract/Awesome-Design-Tools) | 39154 | 2024-07-28 19:57 | JavaScript | MIT License
+[universal-android-debloater (0x192)](https://github.com/0x192/universal-android-debloater) | 18931 | 2024-08-02 16:16 | Rust | GNU General Public License v3.0
+[Awesome-Design-Tools (goabstract)](https://github.com/goabstract/Awesome-Design-Tools) | 39215 | 2024-07-28 19:57 | JavaScript | MIT License
 [chatgpt-backup (abacaj)](https://github.com/abacaj/chatgpt-backup) | 276 | 2024-07-28 12:35 | HTML | MIT License
 [universal-resume (WebPraktikos)](https://github.com/WebPraktikos/universal-resume) | 1774 | 2024-07-25 23:09 | JavaScript | Other
-[awesome-macOS (iCHAIT)](https://github.com/iCHAIT/awesome-macOS) | 17947 | 2024-07-22 20:20 |  | 
-[cheali-charger (stawel)](https://github.com/stawel/cheali-charger) | 883 | 2024-07-21 11:43 | C | 
-[PxMatrix (2dom)](https://github.com/2dom/PxMatrix) | 947 | 2024-07-18 04:09 | C++ | BSD 3-Clause "New" or "Revised" License
+[awesome-macOS (iCHAIT)](https://github.com/iCHAIT/awesome-macOS) | 17987 | 2024-07-22 20:20 |  | 
+[cheali-charger (stawel)](https://github.com/stawel/cheali-charger) | 884 | 2024-07-21 11:43 | C | 
+[PxMatrix (2dom)](https://github.com/2dom/PxMatrix) | 950 | 2024-07-18 04:09 | C++ | BSD 3-Clause "New" or "Revised" License
 [FlipperMfkey (noproto)](https://github.com/noproto/FlipperMfkey) | 294 | 2024-07-13 01:07 | C | GNU General Public License v3.0
-[flipperzero-bruteforce (tobiabocchi)](https://github.com/tobiabocchi/flipperzero-bruteforce) | 2409 | 2024-07-12 16:52 | Python | 
-[openhaystack (seemoo-lab)](https://github.com/seemoo-lab/openhaystack) | 12703 | 2024-07-09 07:19 | Swift | GNU Affero General Public License v3.0
+[flipperzero-bruteforce (tobiabocchi)](https://github.com/tobiabocchi/flipperzero-bruteforce) | 2412 | 2024-07-12 16:52 | Python | 
+[openhaystack (seemoo-lab)](https://github.com/seemoo-lab/openhaystack) | 12786 | 2024-07-09 07:19 | Swift | GNU Affero General Public License v3.0
 [financial_lessons (emilepetrone)](https://github.com/emilepetrone/financial_lessons) | 722 | 2024-06-26 10:12 |  | 
-[gpt-repository-loader (mpoon)](https://github.com/mpoon/gpt-repository-loader) | 2979 | 2024-06-25 18:53 | Python | MIT License
-[the-art-of-command-line (jlevy)](https://github.com/jlevy/the-art-of-command-line) | 159981 | 2024-06-25 18:13 |  | 
-[Free-Auto-GPT (IntelligenzaArtificiale)](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) | 2535 | 2024-06-19 00:18 | Python | MIT License
-[DevYouTubeList (ErikCH)](https://github.com/ErikCH/DevYouTubeList) | 5063 | 2024-06-13 13:12 |  | MIT License
-[html-dom (phuocng)](https://github.com/phuocng/html-dom) | 6541 | 2024-06-06 13:29 | MDX | MIT License
+[gpt-repository-loader (mpoon)](https://github.com/mpoon/gpt-repository-loader) | 2978 | 2024-06-25 18:53 | Python | MIT License
+[the-art-of-command-line (jlevy)](https://github.com/jlevy/the-art-of-command-line) | 160189 | 2024-06-25 18:13 |  | 
+[Free-Auto-GPT (IntelligenzaArtificiale)](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) | 2536 | 2024-06-19 00:18 | Python | MIT License
+[DevYouTubeList (ErikCH)](https://github.com/ErikCH/DevYouTubeList) | 5064 | 2024-06-13 13:12 |  | MIT License
+[html-dom (phuocng)](https://github.com/phuocng/html-dom) | 6539 | 2024-06-06 13:29 | MDX | MIT License
 [chat-with-gpt (cogentapps)](https://github.com/cogentapps/chat-with-gpt) | 2363 | 2024-05-24 17:16 | TypeScript | MIT License
-[macOS-Simple-KVM (foxlet)](https://github.com/foxlet/macOS-Simple-KVM) | 13895 | 2024-04-04 15:48 | Shell | 
-[rpi-clone (billw2)](https://github.com/billw2/rpi-clone) | 2757 | 2024-03-21 12:51 | Shell | BSD 3-Clause "New" or "Revised" License
-[frontend-development (codingknite)](https://github.com/codingknite/frontend-development) | 2311 | 2024-03-04 11:02 |  | MIT License
+[macOS-Simple-KVM (foxlet)](https://github.com/foxlet/macOS-Simple-KVM) | 13894 | 2024-04-04 15:48 | Shell | 
+[rpi-clone (billw2)](https://github.com/billw2/rpi-clone) | 2758 | 2024-03-21 12:51 | Shell | BSD 3-Clause "New" or "Revised" License
+[frontend-development (codingknite)](https://github.com/codingknite/frontend-development) | 2310 | 2024-03-04 11:02 |  | MIT License
 [MagInkCal (speedyg0nz)](https://github.com/speedyg0nz/MagInkCal) | 3255 | 2024-03-01 13:15 | Python | Apache License 2.0
 [dustcloud (dgiese)](https://github.com/dgiese/dustcloud) | 2273 | 2024-02-16 21:41 | C | GNU General Public License v3.0
-[ChatGPT-AutoExpert (spdustin)](https://github.com/spdustin/ChatGPT-AutoExpert) | 6671 | 2024-01-17 06:03 | JavaScript | Other
+[ChatGPT-AutoExpert (spdustin)](https://github.com/spdustin/ChatGPT-AutoExpert) | 6668 | 2024-01-17 06:03 | JavaScript | Other
 [pilot-drive (lamemakes)](https://github.com/lamemakes/pilot-drive) | 168 | 2024-01-08 05:29 | Python | GNU General Public License v3.0
-[flightportal (smartbutnot)](https://github.com/smartbutnot/flightportal) | 357 | 2023-12-30 13:33 | Python | 
-[The-Open-Book (joeycastillo)](https://github.com/joeycastillo/The-Open-Book) | 7931 | 2023-12-05 00:34 |  | Creative Commons Attribution Share Alike 4.0 International
-[google-unlocked (Ibit-to)](https://github.com/Ibit-to/google-unlocked) | 2354 | 2023-12-02 03:29 | JavaScript | 
-[Bringing-Old-Photos-Back-to-Life (microsoft)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | 15696 | 2023-10-26 08:06 | Python | MIT License
-[hacker-scripts (NARKOZ)](https://github.com/NARKOZ/hacker-scripts) | 49425 | 2023-10-23 21:01 | JavaScript | 
-[prompt-engineering (brexhq)](https://github.com/brexhq/prompt-engineering) | 9483 | 2023-10-23 01:41 |  | MIT License
-[t470s-uefi-unlock (lilianalillyy)](https://github.com/lilianalillyy/t470s-uefi-unlock) | 22 | 2023-10-12 08:19 | Python | 
-[halo (halo-re)](https://github.com/halo-re/halo) | 287 | 2023-10-09 15:36 | C | 
+[flightportal (smartbutnot)](https://github.com/smartbutnot/flightportal) | 358 | 2023-12-30 13:33 | Python | 
+[The-Open-Book (joeycastillo)](https://github.com/joeycastillo/The-Open-Book) | 7937 | 2023-12-05 00:34 |  | Creative Commons Attribution Share Alike 4.0 International
+[google-unlocked (Ibit-to)](https://github.com/Ibit-to/google-unlocked) | 2362 | 2023-12-02 03:29 | JavaScript | 
+[Bringing-Old-Photos-Back-to-Life (microsoft)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | 15691 | 2023-10-26 08:06 | Python | MIT License
+[hacker-scripts (NARKOZ)](https://github.com/NARKOZ/hacker-scripts) | 49433 | 2023-10-23 21:01 | JavaScript | 
+[prompt-engineering (brexhq)](https://github.com/brexhq/prompt-engineering) | 9492 | 2023-10-23 01:41 |  | MIT License
+[t470s-uefi-unlock (lilianalillyy)](https://github.com/lilianalillyy/t470s-uefi-unlock) | 24 | 2023-10-12 08:19 | Python | 
+[halo (halo-re)](https://github.com/halo-re/halo) | 286 | 2023-10-09 15:36 | C | 
 [wildwood (guidoism)](https://github.com/guidoism/wildwood) | 49 | 2023-09-15 22:41 |  | The Unlicense
 [slides-talks (AkechiShiro)](https://github.com/AkechiShiro/slides-talks) | 37 | 2023-08-20 13:38 |  | Open Software License 3.0
 [archivy (archivy)](https://github.com/archivy/archivy) | 3255 | 2023-07-25 23:33 | Python | MIT License
 [TorDownloader (Ian-Costa18)](https://github.com/Ian-Costa18/TorDownloader) | 9 | 2023-07-12 14:54 | Python | MIT License
 [Twizy-Virtual-BMS (dexterbg)](https://github.com/dexterbg/Twizy-Virtual-BMS) | 93 | 2023-05-19 19:05 | C++ | Other
-[shellclear (rusty-ferris-club)](https://github.com/rusty-ferris-club/shellclear) | 226 | 2023-05-15 11:03 | Rust | Apache License 2.0
-[svg-spinners (n3r4zzurr0)](https://github.com/n3r4zzurr0/svg-spinners) | 6926 | 2023-05-05 06:13 | SVG | MIT License
-[vscode-chatgpt (gencay)](https://github.com/gencay/vscode-chatgpt) | 3470 | 2023-04-18 02:53 | TypeScript | ISC License
-[Kiosk-evasion-BADUsb-Bruteforce (nocomp)](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce) | 175 | 2023-04-10 16:59 |  | 
-[1on1-questions (VGraupera)](https://github.com/VGraupera/1on1-questions) | 9617 | 2023-03-18 15:42 | JavaScript | MIT License
+[shellclear (rusty-ferris-club)](https://github.com/rusty-ferris-club/shellclear) | 227 | 2023-05-15 11:03 | Rust | Apache License 2.0
+[svg-spinners (n3r4zzurr0)](https://github.com/n3r4zzurr0/svg-spinners) | 6929 | 2023-05-05 06:13 | SVG | MIT License
+[vscode-chatgpt (gencay)](https://github.com/gencay/vscode-chatgpt) | 3469 | 2023-04-18 02:53 | TypeScript | ISC License
+[Kiosk-evasion-BADUsb-Bruteforce (nocomp)](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce) | 177 | 2023-04-10 16:59 |  | 
+[1on1-questions (VGraupera)](https://github.com/VGraupera/1on1-questions) | 9620 | 2023-03-18 15:42 | JavaScript | MIT License
 [edgewalker (fazalmajid)](https://github.com/fazalmajid/edgewalker) | 84 | 2023-03-13 19:40 | Shell | MIT License
-[good-repo (adamdotdevin)](https://github.com/adamdotdevin/good-repo) | 1266 | 2023-02-06 20:27 | JavaScript | 
+[good-repo (adamdotdevin)](https://github.com/adamdotdevin/good-repo) | 1264 | 2023-02-06 20:27 | JavaScript | 
 [FLIPPER-JAMM (emoisemo)](https://github.com/emoisemo/FLIPPER-JAMM) | 379 | 2023-01-18 07:19 |  | 
-[FlipperZeroSub-GHz (MuddledBox)](https://github.com/MuddledBox/FlipperZeroSub-GHz) | 1416 | 2022-12-03 14:54 |  | 
+[FlipperZeroSub-GHz (MuddledBox)](https://github.com/MuddledBox/FlipperZeroSub-GHz) | 1422 | 2022-12-03 14:54 |  | 
 [learn.js (MarcoWorms)](https://github.com/MarcoWorms/learn.js) | 317 | 2022-11-22 15:56 |  | MIT License
 [flipperzero-gate-bruteforce (Hong5489)](https://github.com/Hong5489/flipperzero-gate-bruteforce) | 602 | 2022-10-22 08:17 | Python | 
-[CAMEbruteforcer (BitcoinRaven)](https://github.com/BitcoinRaven/CAMEbruteforcer) | 432 | 2022-08-28 06:32 | Python | 
-[retroarch_system (Abdess)](https://github.com/Abdess/retroarch_system) | 5224 | 2022-08-13 12:48 |  | 
+[CAMEbruteforcer (BitcoinRaven)](https://github.com/BitcoinRaven/CAMEbruteforcer) | 433 | 2022-08-28 06:32 | Python | 
+[retroarch_system (Abdess)](https://github.com/Abdess/retroarch_system) | 5267 | 2022-08-13 12:48 |  | 
 [recipe-el_fuego_viviente (aweijnitz)](https://github.com/aweijnitz/recipe-el_fuego_viviente) | 1738 | 2022-08-03 14:16 |  | Other
 [maker_cheatsheet (gregsaun)](https://github.com/gregsaun/maker_cheatsheet) | 260 | 2022-07-04 10:49 | Python | 
-[flipperzero-lrs-pagers (jimilinuxguy)](https://github.com/jimilinuxguy/flipperzero-lrs-pagers) | 76 | 2022-06-02 22:08 |  | GNU General Public License v3.0
+[flipperzero-lrs-pagers (jimilinuxguy)](https://github.com/jimilinuxguy/flipperzero-lrs-pagers) | 77 | 2022-06-02 22:08 |  | GNU General Public License v3.0
 [TSA-Travel-Sentry-master-keys (Xyl2k)](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) | 3240 | 2022-05-25 05:23 |  | Other
 [Flipper-Big-IR (Hackerman-the-tired)](https://github.com/Hackerman-the-tired/Flipper-Big-IR) | 24 | 2022-04-21 00:17 |  | Creative Commons Zero v1.0 Universal
 [esp32-i2s-slm (ikostoski)](https://github.com/ikostoski/esp32-i2s-slm) | 294 | 2021-07-19 18:58 | C++ | GNU General Public License v3.0
 [esp32-i2s-slm (HorstBaerbel)](https://github.com/HorstBaerbel/esp32-i2s-slm) | 3 | 2021-07-19 18:58 | C++ | GNU General Public License v3.0
 [buyingacar (kutinden)](https://github.com/kutinden/buyingacar) | 157 | 2021-04-24 16:15 |  | Creative Commons Zero v1.0 Universal
 [ESP32-S2-DevKit-LiPo (OLIMEX)](https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo) | 18 | 2020-10-29 11:13 |  | GNU Affero General Public License v3.0
-[SpinKit (tobiasahlin)](https://github.com/tobiasahlin/SpinKit) | 19386 | 2020-08-01 09:04 | CSS | MIT License
+[SpinKit (tobiasahlin)](https://github.com/tobiasahlin/SpinKit) | 19381 | 2020-08-01 09:04 | CSS | MIT License
 [ResponsiveEmailPatterns (briangraves)](https://github.com/briangraves/ResponsiveEmailPatterns) | 448 | 2020-06-16 21:15 | CSS | 
 [laser-temp-gun (balassy)](https://github.com/balassy/laser-temp-gun) | 8 | 2020-03-24 20:52 | C++ | MIT License
 [feedback (brandcolors)](https://github.com/brandcolors/feedback) | 203 | 2019-08-12 10:46 |  | 
@@ -298,19 +299,19 @@ Name | Stargazers | Last Sighting | Composition | Rights
 ### Dead Stars
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
-[Best-websites-a-programmer-should-visit (sdmg15)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 75767 | 2025-09-16 18:34 |  | MIT License
+[Best-websites-a-programmer-should-visit (sdmg15)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 75817 | 2025-09-16 18:34 |  | MIT License
 [lorabridge (lorabridge)](https://github.com/lorabridge/lorabridge) | 88 | 2025-04-23 11:06 | Shell | GNU General Public License v3.0
-[insect (sharkdp)](https://github.com/sharkdp/insect) | 3174 | 2025-02-10 20:25 | PureScript | MIT License
-[Xtreme-Firmware (Flipper-XFW)](https://github.com/Flipper-XFW/Xtreme-Firmware) | 9853 | 2024-11-19 01:52 | C | GNU General Public License v3.0
+[insect (sharkdp)](https://github.com/sharkdp/insect) | 3173 | 2025-02-10 20:25 | PureScript | MIT License
+[Xtreme-Firmware (Flipper-XFW)](https://github.com/Flipper-XFW/Xtreme-Firmware) | 9858 | 2024-11-19 01:52 | C | GNU General Public License v3.0
 [Auto-GPT-Plugins (Significant-Gravitas)](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3848 | 2024-04-29 13:45 | Python | MIT License
 [bt-mqtt-gateway (zewelor)](https://github.com/zewelor/bt-mqtt-gateway) | 557 | 2023-10-26 19:06 | Python | MIT License
 [BambulabLedController (DutchDevelop)](https://github.com/DutchDevelop/BambulabLedController) | 42 | 2023-08-10 17:19 | C++ | Other
 [wifi-egg-duino (andrei-tatar)](https://github.com/andrei-tatar/wifi-egg-duino) | 4 | 2023-05-24 02:12 | TypeScript | 
 [topgrade (r-darwish)](https://github.com/r-darwish/topgrade) | 3306 | 2022-10-12 12:04 | Rust | GNU General Public License v3.0
-[WebFundamentals (google)](https://github.com/google/WebFundamentals) | 13880 | 2022-08-10 14:38 | JavaScript | Apache License 2.0
+[WebFundamentals (google)](https://github.com/google/WebFundamentals) | 13885 | 2022-08-10 14:38 | JavaScript | Apache License 2.0
 [DeleteFB (weskerfoot)](https://github.com/weskerfoot/DeleteFB) | 2670 | 2021-12-13 20:05 | Python | MIT License
 [thinkpad-tools (devksingh4)](https://github.com/devksingh4/thinkpad-tools) | 183 | 2021-04-12 21:36 | Python | BSD 3-Clause "New" or "Revised" License
 [EzGraver (camrein)](https://github.com/camrein/EzGraver) | 139 | 2021-03-04 10:31 | C++ | MIT License
 [github-trending-filter (miao1007)](https://github.com/miao1007/github-trending-filter) | 8 | 2019-06-30 11:35 | JavaScript | 
 [FuckFuckAdblock (Mechazawa)](https://github.com/Mechazawa/FuckFuckAdblock) | 1256 | 2017-05-22 15:47 | JavaScript | Do What The F*ck You Want To Public License
-[openrecipes (fictive-kin)](https://github.com/fictive-kin/openrecipes) | 611 | 2014-07-16 18:44 | Python | Other
+[openrecipes (fictive-kin)](https://github.com/fictive-kin/openrecipes) | 612 | 2014-07-16 18:44 | Python | Other
