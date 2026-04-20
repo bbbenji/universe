@@ -141,7 +141,7 @@
 * [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript)
 * [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup)
 * [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce)
-* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+* [oobabooga/textgen](https://github.com/oobabooga/textgen)
 * [nat/openplayground](https://github.com/nat/openplayground)
 * [chriswayg/Opencore-Visual-Beginners-Guide](https://github.com/chriswayg/Opencore-Visual-Beginners-Guide)
 * [Correia-jpv/fucking-awesome-flipperzero](https://github.com/Correia-jpv/fucking-awesome-flipperzero)
