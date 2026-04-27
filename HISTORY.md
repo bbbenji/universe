@@ -261,7 +261,7 @@
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
 * [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish)
 * [instantpage/instant.page](https://github.com/instantpage/instant.page)
-* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 * [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough)
 * [invesalius/invesalius3](https://github.com/invesalius/invesalius3)
 * [unbug/codelf](https://github.com/unbug/codelf)
