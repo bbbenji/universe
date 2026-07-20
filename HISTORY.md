@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [mira-thing/mira-releases](https://github.com/mira-thing/mira-releases)
 * [Wojtekb30/unofficial-triki-api-py](https://github.com/Wojtekb30/unofficial-triki-api-py)
 * [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT)
 * [willumpie82/deciLight](https://github.com/willumpie82/deciLight)
