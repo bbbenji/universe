@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches)
 * [mira-thing/mira-releases](https://github.com/mira-thing/mira-releases)
 * [Wojtekb30/unofficial-triki-api-py](https://github.com/Wojtekb30/unofficial-triki-api-py)
 * [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT)
@@ -154,7 +155,6 @@
 * [emoisemo/FLIPPER-JAMM](https://github.com/emoisemo/FLIPPER-JAMM)
 * [HorstBaerbel/HubAlyzer](https://github.com/HorstBaerbel/HubAlyzer)
 * [HorstBaerbel/esp32-i2s-slm](https://github.com/HorstBaerbel/esp32-i2s-slm)
-* [ikostoski/esp32-i2s-slm](https://github.com/ikostoski/esp32-i2s-slm)
 * [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad)
 * [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)
 * [platisd/openai-pr-description](https://github.com/platisd/openai-pr-description)
