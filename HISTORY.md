@@ -2,7 +2,6 @@
 
 * [tommasobbianchi/mesh2step](https://github.com/tommasobbianchi/mesh2step)
 * [BlinkingSun/stl2step](https://github.com/BlinkingSun/stl2step)
-* [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches)
 * [mira-thing/mira-releases](https://github.com/mira-thing/mira-releases)
 * [Wojtekb30/unofficial-triki-api-py](https://github.com/Wojtekb30/unofficial-triki-api-py)
 * [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT)
