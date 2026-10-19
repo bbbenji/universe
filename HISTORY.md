@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
 * [tommasobbianchi/mesh2step](https://github.com/tommasobbianchi/mesh2step)
 * [BlinkingSun/stl2step](https://github.com/BlinkingSun/stl2step)
 * [mira-thing/mira-releases](https://github.com/mira-thing/mira-releases)
