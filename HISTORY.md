@@ -101,7 +101,7 @@
 * [dockur/windows](https://github.com/dockur/windows)
 * [kutinden/buyingacar](https://github.com/kutinden/buyingacar)
 * [withastro/astro](https://github.com/withastro/astro)
-* [dubinc/dub](https://github.com/dubinc/dub)
+* [dubinc/dub.link](https://github.com/dubinc/dub.link)
 * [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 * [AkechiShiro/slides-talks](https://github.com/AkechiShiro/slides-talks)
 * [DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets)
